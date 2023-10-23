@@ -1,0 +1,125 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Thursday, 1 October 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 93%,Barometer: 1006 mbar,WNW,Wind: 5 km/h
+"Thursday, 1 October 2020, 06:00 — 12:00",31 / 25 °C,Scattered clouds.,Humidity: 86%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Thursday, 1 October 2020, 12:00 — 18:00",33 / 30 °C,Scattered clouds.,Humidity: 70%,Barometer: 1004 mbar,W,Wind: 11 km/h
+"Thursday, 1 October 2020, 18:00 — 00:00",30 / 27 °C,Passing clouds.,Humidity: 88%,Barometer: 1006 mbar,WNW,Wind: 7 km/h
+"Friday, 2 October 2020, 00:00 — 06:00",27 / 26 °C,Light rain. Partly cloudy.,Humidity: 99%,Barometer: 1005 mbar,N,Wind: 2 km/h
+"Friday, 2 October 2020, 06:00 — 12:00",31 / 27 °C,Broken clouds.,Humidity: 92%,Barometer: 1007 mbar,N,Wind: 4 km/h
+"Friday, 2 October 2020, 12:00 — 18:00",33 / 27 °C,Broken clouds.,Humidity: 82%,Barometer: 1004 mbar,N,Wind: 7 km/h
+"Friday, 2 October 2020, 18:00 — 00:00",27 / 26 °C,Passing clouds.,Humidity: 99%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Saturday, 3 October 2020, 00:00 — 06:00",26 / 25 °C,Fog.,Humidity: 100%,Barometer: 1007 mbar,NW,Wind: 3 km/h
+"Saturday, 3 October 2020, 06:00 — 12:00",32 / 26 °C,Partly sunny.,Humidity: 86%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Saturday, 3 October 2020, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 74%,Barometer: 1006 mbar,W,Wind: 16 km/h
+"Saturday, 3 October 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 91%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Sunday, 4 October 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 98%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Sunday, 4 October 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 82%,Barometer: 1010 mbar,WNW,Wind: 12 km/h
+"Sunday, 4 October 2020, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 68%,Barometer: 1006 mbar,W,Wind: 16 km/h
+"Sunday, 4 October 2020, 18:00 — 00:00",28 / 25 °C,Light rain. Partly cloudy.,Humidity: 91%,Barometer: 1009 mbar,WSW,Wind: 12 km/h
+"Monday, 5 October 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 99%,Barometer: 1008 mbar,N,Wind: 8 km/h
+"Monday, 5 October 2020, 06:00 — 12:00",30 / 25 °C,Broken clouds.,Humidity: 89%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Monday, 5 October 2020, 12:00 — 18:00",31 / 25 °C,Scattered clouds.,Humidity: 85%,Barometer: 1006 mbar,W,Wind: 11 km/h
+"Monday, 5 October 2020, 18:00 — 00:00",25 / 25 °C,Light rain. Partly cloudy.,Humidity: 100%,Barometer: 1008 mbar,WSW,Wind: 9 km/h
+"Tuesday, 6 October 2020, 00:00 — 06:00",25 / 25 °C,Light rain. Partly cloudy.,Humidity: 100%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Tuesday, 6 October 2020, 06:00 — 12:00",30 / 25 °C,Scattered clouds.,Humidity: 92%,Barometer: 1008 mbar,WNW,Wind: 10 km/h
+"Tuesday, 6 October 2020, 12:00 — 18:00",30 / 29 °C,Broken clouds.,Humidity: 80%,Barometer: 1005 mbar,WNW,Wind: 7 km/h
+"Tuesday, 6 October 2020, 18:00 — 00:00",29 / 27 °C,Partly cloudy.,Humidity: 92%,Barometer: 1007 mbar,NW,Wind: 5 km/h
+"Wednesday, 7 October 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 99%,Barometer: 1005 mbar,W,Wind: 5 km/h
+"Wednesday, 7 October 2020, 06:00 — 12:00",27 / 25 °C,Sprinkles. Broken clouds.,Humidity: 100%,Barometer: 1006 mbar,W,Wind: 11 km/h
+"Wednesday, 7 October 2020, 12:00 — 18:00",28 / 25 °C,More clouds than sun.,Humidity: 97%,Barometer: 1003 mbar,WNW,Wind: 11 km/h
+"Wednesday, 7 October 2020, 18:00 — 00:00",26 / 25 °C,Passing clouds.,Humidity: 98%,Barometer: 1004 mbar,N,Wind: 3 km/h
+"Thursday, 8 October 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 100%,Barometer: 1004 mbar,N,Wind: 3 km/h
+"Thursday, 8 October 2020, 06:00 — 12:00",31 / 25 °C,Scattered clouds.,Humidity: 84%,Barometer: 1006 mbar,N,Wind: 6 km/h
+"Thursday, 8 October 2020, 12:00 — 18:00",32 / 26 °C,Broken clouds.,Humidity: 78%,Barometer: 1004 mbar,S,Wind: 11 km/h
+"Thursday, 8 October 2020, 18:00 — 00:00",27 / 26 °C,Passing clouds.,Humidity: 96%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Friday, 9 October 2020, 00:00 — 06:00",26 / 26 °C,Passing clouds.,Humidity: 100%,Barometer: 1006 mbar,N,Wind: 4 km/h
+"Friday, 9 October 2020, 06:00 — 12:00",30 / 26 °C,Partly sunny.,Humidity: 94%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Friday, 9 October 2020, 12:00 — 18:00",27 / 25 °C,Light rain. Broken clouds.,Humidity: 99%,Barometer: 1005 mbar,N,Wind: 7 km/h
+"Friday, 9 October 2020, 18:00 — 00:00",26 / 26 °C,Partly cloudy.,Humidity: 98%,Barometer: 1007 mbar,N,Wind: 4 km/h
+"Saturday, 10 October 2020, 00:00 — 06:00",26 / 25 °C,Light rain. Partly cloudy.,Humidity: 100%,Barometer: 1006 mbar,NW,Wind: 1 km/h
+"Saturday, 10 October 2020, 06:00 — 12:00",30 / 25 °C,Broken clouds.,Humidity: 91%,Barometer: 1007 mbar,N,Wind: 2 km/h
+"Saturday, 10 October 2020, 12:00 — 18:00",31 / 25 °C,Broken clouds.,Humidity: 87%,Barometer: 1004 mbar,N,Wind: 9 km/h
+"Saturday, 10 October 2020, 18:00 — 00:00",26 / 25 °C,Light rain. Partly cloudy.,Humidity: 100%,Barometer: 1007 mbar,WSW,Wind: 7 km/h
+"Sunday, 11 October 2020, 00:00 — 06:00",26 / 25 °C,Light rain. Fog.,Humidity: 100%,Barometer: 1005 mbar,SW,Wind: 5 km/h
+"Sunday, 11 October 2020, 06:00 — 12:00",28 / 26 °C,Partly sunny.,Humidity: 95%,Barometer: 1006 mbar,W,Wind: 10 km/h
+"Sunday, 11 October 2020, 12:00 — 18:00",29 / 26 °C,Broken clouds.,Humidity: 93%,Barometer: 1003 mbar,WSW,Wind: 15 km/h
+"Sunday, 11 October 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 100%,Barometer: 1005 mbar,WSW,Wind: 10 km/h
+"Monday, 12 October 2020, 00:00 — 06:00",25 / 25 °C,Partly cloudy.,Humidity: 100%,Barometer: 1003 mbar,SW,Wind: 5 km/h
+"Monday, 12 October 2020, 06:00 — 12:00",30 / 25 °C,Partly sunny.,Humidity: 94%,Barometer: 1005 mbar,NNW,Wind: 7 km/h
+"Monday, 12 October 2020, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 74%,Barometer: 1002 mbar,W,Wind: 12 km/h
+"Monday, 12 October 2020, 18:00 — 00:00",28 / 25 °C,Partly cloudy.,Humidity: 92%,Barometer: 1004 mbar,W,Wind: 14 km/h
+"Tuesday, 13 October 2020, 00:00 — 06:00",26 / 25 °C,Partly cloudy.,Humidity: 99%,Barometer: 1003 mbar,W,Wind: 6 km/h
+"Tuesday, 13 October 2020, 06:00 — 12:00",30 / 25 °C,Partly sunny.,Humidity: 86%,Barometer: 1005 mbar,N,Wind: 6 km/h
+"Tuesday, 13 October 2020, 12:00 — 18:00",30 / 25 °C,Broken clouds.,Humidity: 80%,Barometer: 1003 mbar,WSW,Wind: 15 km/h
+"Tuesday, 13 October 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 97%,Barometer: 1005 mbar,WSW,Wind: 12 km/h
+"Wednesday, 14 October 2020, 00:00 — 06:00",26 / 25 °C,Partly cloudy.,Humidity: 99%,Barometer: 1004 mbar,WSW,Wind: 9 km/h
+"Wednesday, 14 October 2020, 06:00 — 12:00",27 / 25 °C,Broken clouds.,Humidity: 97%,Barometer: 1006 mbar,N,Wind: 4 km/h
+"Wednesday, 14 October 2020, 12:00 — 18:00",27 / 26 °C,Light rain. Broken clouds.,Humidity: 98%,Barometer: 1004 mbar,S,Wind: 8 km/h
+"Wednesday, 14 October 2020, 18:00 — 00:00",26 / 25 °C,Passing clouds.,Humidity: 98%,Barometer: 1006 mbar,SSW,Wind: 10 km/h
+"Thursday, 15 October 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 100%,Barometer: 1005 mbar,WSW,Wind: 10 km/h
+"Thursday, 15 October 2020, 06:00 — 12:00",29 / 25 °C,Partly sunny.,Humidity: 93%,Barometer: 1006 mbar,W,Wind: 12 km/h
+"Thursday, 15 October 2020, 12:00 — 18:00",31 / 26 °C,Partly sunny.,Humidity: 86%,Barometer: 1003 mbar,W,Wind: 12 km/h
+"Thursday, 15 October 2020, 18:00 — 00:00",26 / 25 °C,Light rain. Partly cloudy.,Humidity: 100%,Barometer: 1006 mbar,W,Wind: 7 km/h
+"Friday, 16 October 2020, 00:00 — 06:00",26 / 25 °C,Partly cloudy.,Humidity: 100%,Barometer: 1005 mbar,SW,Wind: 13 km/h
+"Friday, 16 October 2020, 06:00 — 12:00",28 / 25 °C,Mostly cloudy.,Humidity: 96%,Barometer: 1006 mbar,WSW,Wind: 15 km/h
+"Friday, 16 October 2020, 12:00 — 18:00",28 / 25 °C,Light rain. More clouds than sun.,Humidity: 94%,Barometer: 1003 mbar,W,Wind: 18 km/h
+"Friday, 16 October 2020, 18:00 — 00:00",25 / 25 °C,Mostly cloudy.,Humidity: 98%,Barometer: 1005 mbar,SW,Wind: 10 km/h
+"Saturday, 17 October 2020, 00:00 — 06:00",25 / 25 °C,Partly cloudy.,Humidity: 99%,Barometer: 1004 mbar,SW,Wind: 13 km/h
+"Saturday, 17 October 2020, 06:00 — 12:00",29 / 25 °C,Light rain. More clouds than sun.,Humidity: 93%,Barometer: 1007 mbar,SW,Wind: 14 km/h
+"Saturday, 17 October 2020, 12:00 — 18:00",30 / 26 °C,Light rain. Broken clouds.,Humidity: 85%,Barometer: 1005 mbar,SW,Wind: 17 km/h
+"Saturday, 17 October 2020, 18:00 — 00:00",26 / 25 °C,Light rain. Mostly cloudy.,Humidity: 96%,Barometer: 1007 mbar,WSW,Wind: 9 km/h
+"Sunday, 18 October 2020, 00:00 — 06:00",26 / 23 °C,Mostly cloudy.,Humidity: 100%,Barometer: 1006 mbar,N,Wind: 4 km/h
+"Sunday, 18 October 2020, 06:00 — 12:00",28 / 24 °C,Broken clouds.,Humidity: 93%,Barometer: 1009 mbar,WSW,Wind: 12 km/h
+"Sunday, 18 October 2020, 12:00 — 18:00",29 / 27 °C,More clouds than sun.,Humidity: 85%,Barometer: 1007 mbar,S,Wind: 9 km/h
+"Sunday, 18 October 2020, 18:00 — 00:00",27 / 26 °C,Light rain. Overcast.,Humidity: 95%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Monday, 19 October 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1008 mbar,N,Wind: 4 km/h
+"Monday, 19 October 2020, 06:00 — 12:00",31 / 26 °C,Partly sunny.,Humidity: 84%,Barometer: 1008 mbar,N,Wind: 8 km/h
+"Monday, 19 October 2020, 12:00 — 18:00",31 / 30 °C,Scattered clouds.,Humidity: 67%,Barometer: 1007 mbar,WNW,Wind: 16 km/h
+"Monday, 19 October 2020, 18:00 — 00:00",28 / 27 °C,Partly cloudy.,Humidity: 90%,Barometer: 1009 mbar,W,Wind: 3 km/h
+"Tuesday, 20 October 2020, 00:00 — 06:00",27 / 25 °C,Partly cloudy.,Humidity: 94%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Tuesday, 20 October 2020, 06:00 — 12:00",32 / 25 °C,Scattered clouds.,Humidity: 81%,Barometer: 1009 mbar,NNW,Wind: 7 km/h
+"Tuesday, 20 October 2020, 12:00 — 18:00",32 / 29 °C,Broken clouds.,Humidity: 70%,Barometer: 1006 mbar,WNW,Wind: 9 km/h
+"Tuesday, 20 October 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 87%,Barometer: 1008 mbar,WNW,Wind: 8 km/h
+"Wednesday, 21 October 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,NW,Wind: 9 km/h
+"Wednesday, 21 October 2020, 06:00 — 12:00",31 / 26 °C,Partly sunny.,Humidity: 87%,Barometer: 1008 mbar,N,Wind: 10 km/h
+"Wednesday, 21 October 2020, 12:00 — 18:00",31 / 29 °C,More clouds than sun.,Humidity: 76%,Barometer: 1005 mbar,N,Wind: 10 km/h
+"Wednesday, 21 October 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 89%,Barometer: 1007 mbar,N,Wind: 4 km/h
+"Thursday, 22 October 2020, 00:00 — 06:00",27 / 25 °C,Partly cloudy.,Humidity: 98%,Barometer: 1006 mbar,W,Wind: 5 km/h
+"Thursday, 22 October 2020, 06:00 — 12:00",32 / 25 °C,Scattered clouds.,Humidity: 79%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Thursday, 22 October 2020, 12:00 — 18:00",34 / 30 °C,Scattered clouds.,Humidity: 56%,Barometer: 1005 mbar,N,Wind: 6 km/h
+"Thursday, 22 October 2020, 18:00 — 00:00",30 / 27 °C,Partly cloudy.,Humidity: 74%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Friday, 23 October 2020, 00:00 — 06:00",27 / 26 °C,Partly cloudy.,Humidity: 87%,Barometer: 1008 mbar,NNW,Wind: 8 km/h
+"Friday, 23 October 2020, 06:00 — 12:00",31 / 26 °C,Scattered clouds.,Humidity: 72%,Barometer: 1009 mbar,N,Wind: 9 km/h
+"Friday, 23 October 2020, 12:00 — 18:00",32 / 29 °C,Scattered clouds.,Humidity: 61%,Barometer: 1006 mbar,N,Wind: 7 km/h
+"Friday, 23 October 2020, 18:00 — 00:00",29 / 27 °C,Light rain. Partly cloudy.,Humidity: 84%,Barometer: 1009 mbar,SSW,Wind: 8 km/h
+"Saturday, 24 October 2020, 00:00 — 06:00",27 / 26 °C,Partly cloudy.,Humidity: 89%,Barometer: 1009 mbar,WNW,Wind: 5 km/h
+"Saturday, 24 October 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 67%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Saturday, 24 October 2020, 12:00 — 18:00",33 / 28 °C,Partly sunny.,Humidity: 61%,Barometer: 1007 mbar,S,Wind: 11 km/h
+"Saturday, 24 October 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 82%,Barometer: 1010 mbar,SSE,Wind: 9 km/h
+"Sunday, 25 October 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 90%,Barometer: 1009 mbar,S,Wind: 5 km/h
+"Sunday, 25 October 2020, 06:00 — 12:00",30 / 25 °C,Scattered clouds.,Humidity: 78%,Barometer: 1010 mbar,N,Wind: 8 km/h
+"Sunday, 25 October 2020, 12:00 — 18:00",31 / 28 °C,Broken clouds.,Humidity: 70%,Barometer: 1008 mbar,N,Wind: 9 km/h
+"Sunday, 25 October 2020, 18:00 — 00:00",28 / 26 °C,Partly cloudy.,Humidity: 86%,Barometer: 1009 mbar,SSW,Wind: 7 km/h
+"Monday, 26 October 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 91%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Monday, 26 October 2020, 06:00 — 12:00",31 / 25 °C,Scattered clouds.,Humidity: 69%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Monday, 26 October 2020, 12:00 — 18:00",32 / 29 °C,Partly sunny.,Humidity: 61%,Barometer: 1007 mbar,W,Wind: 13 km/h
+"Monday, 26 October 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 75%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Tuesday, 27 October 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 83%,Barometer: 1007 mbar,NNW,Wind: 8 km/h
+"Tuesday, 27 October 2020, 06:00 — 12:00",31 / 25 °C,Scattered clouds.,Humidity: 72%,Barometer: 1008 mbar,NNW,Wind: 14 km/h
+"Tuesday, 27 October 2020, 12:00 — 18:00",31 / 28 °C,More clouds than sun.,Humidity: 66%,Barometer: 1005 mbar,WNW,Wind: 17 km/h
+"Tuesday, 27 October 2020, 18:00 — 00:00",28 / 26 °C,Mostly cloudy.,Humidity: 79%,Barometer: 1007 mbar,WNW,Wind: 10 km/h
+"Wednesday, 28 October 2020, 00:00 — 06:00",26 / 26 °C,Mostly cloudy.,Humidity: 84%,Barometer: 1005 mbar,WNW,Wind: 11 km/h
+"Wednesday, 28 October 2020, 06:00 — 12:00",29 / 26 °C,Mostly cloudy.,Humidity: 76%,Barometer: 1006 mbar,W,Wind: 17 km/h
+"Wednesday, 28 October 2020, 12:00 — 18:00",29 / 27 °C,Mostly cloudy.,Humidity: 69%,Barometer: 1004 mbar,WNW,Wind: 19 km/h
+"Wednesday, 28 October 2020, 18:00 — 00:00",27 / 26 °C,Overcast.,Humidity: 76%,Barometer: 1007 mbar,WNW,Wind: 7 km/h
+"Thursday, 29 October 2020, 00:00 — 06:00",26 / 25 °C,Overcast.,Humidity: 91%,Barometer: 1006 mbar,SSW,Wind: 9 km/h
+"Thursday, 29 October 2020, 06:00 — 12:00",33 / 26 °C,Partly sunny.,Humidity: 76%,Barometer: 1009 mbar,SSW,Wind: 13 km/h
+"Thursday, 29 October 2020, 12:00 — 18:00",33 / 27 °C,Partly sunny.,Humidity: 72%,Barometer: 1008 mbar,SSW,Wind: 15 km/h
+"Thursday, 29 October 2020, 18:00 — 00:00",27 / 25 °C,Partly cloudy.,Humidity: 87%,Barometer: 1010 mbar,SSW,Wind: 5 km/h
+"Friday, 30 October 2020, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 91%,Barometer: 1010 mbar,NE,Wind: 2 km/h
+"Friday, 30 October 2020, 06:00 — 12:00",33 / 24 °C,Scattered clouds.,Humidity: 72%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Friday, 30 October 2020, 12:00 — 18:00",34 / 27 °C,Partly sunny.,Humidity: 67%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Friday, 30 October 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 86%,Barometer: 1010 mbar,SE,Wind: 9 km/h
+"Saturday, 31 October 2020, 00:00 — 06:00",28 / 26 °C,Passing clouds.,Humidity: 92%,Barometer: 1010 mbar,W,Wind: 5 km/h
+"Saturday, 31 October 2020, 06:00 — 12:00",33 / 26 °C,Broken clouds.,Humidity: 78%,Barometer: 1011 mbar,N,Wind: 3 km/h
+"Saturday, 31 October 2020, 12:00 — 18:00",33 / 23 °C,Partly sunny.,Humidity: 76%,Barometer: 1007 mbar,N,Wind: 11 km/h
+"Saturday, 31 October 2020, 18:00 — 00:00",25 / 23 °C,Partly cloudy.,Humidity: 98%,Barometer: 1010 mbar,N,Wind: 6 km/h

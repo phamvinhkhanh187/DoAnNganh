@@ -1,0 +1,125 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Sunday, 1 December 2013, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 91%,Barometer: 1010 mbar,N,Wind: 7 km/h
+"Sunday, 1 December 2013, 06:00 — 12:00",29 / 22 °C,Scattered clouds.,Humidity: 70%,Barometer: 1012 mbar,N,Wind: 12 km/h
+"Sunday, 1 December 2013, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 52%,Barometer: 1010 mbar,N,Wind: 8 km/h
+"Sunday, 1 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 78%,Barometer: 1011 mbar,N,Wind: 8 km/h
+"Monday, 2 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 82%,Barometer: 1010 mbar,N,Wind: 7 km/h
+"Monday, 2 December 2013, 06:00 — 12:00",30 / 21 °C,Passing clouds.,Humidity: 64%,Barometer: 1011 mbar,N,Wind: 10 km/h
+"Monday, 2 December 2013, 12:00 — 18:00",32 / 27 °C,Scattered clouds.,Humidity: 54%,Barometer: 1009 mbar,N,Wind: 8 km/h
+"Monday, 2 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 87%,Barometer: 1010 mbar,S,Wind: 8 km/h
+"Tuesday, 3 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 96%,Barometer: 1010 mbar,WNW,Wind: 5 km/h
+"Tuesday, 3 December 2013, 06:00 — 12:00",30 / 21 °C,Scattered clouds.,Humidity: 82%,Barometer: 1011 mbar,N,Wind: 5 km/h
+"Tuesday, 3 December 2013, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 66%,Barometer: 1008 mbar,N,Wind: 6 km/h
+"Tuesday, 3 December 2013, 18:00 — 00:00",28 / 24 °C,Partly cloudy.,Humidity: 90%,Barometer: 1010 mbar,SSE,Wind: 7 km/h
+"Wednesday, 4 December 2013, 00:00 — 06:00",25 / 23 °C,Fog.,Humidity: 98%,Barometer: 1009 mbar,WSW,Wind: 4 km/h
+"Wednesday, 4 December 2013, 06:00 — 12:00",29 / 23 °C,Fog.,Humidity: 90%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Wednesday, 4 December 2013, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 70%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Wednesday, 4 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 92%,Barometer: 1010 mbar,S,Wind: 8 km/h
+"Thursday, 5 December 2013, 00:00 — 06:00",23 / 22 °C,Passing clouds.,Humidity: 98%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Thursday, 5 December 2013, 06:00 — 12:00",30 / 22 °C,Scattered clouds.,Humidity: 80%,Barometer: 1010 mbar,N,Wind: 3 km/h
+"Thursday, 5 December 2013, 12:00 — 18:00",31 / 27 °C,Partly sunny.,Humidity: 67%,Barometer: 1007 mbar,N,Wind: 8 km/h
+"Thursday, 5 December 2013, 18:00 — 00:00",27 / 23 °C,Partly cloudy.,Humidity: 85%,Barometer: 1008 mbar,SSE,Wind: 9 km/h
+"Friday, 6 December 2013, 00:00 — 06:00",24 / 21 °C,Partly cloudy.,Humidity: 99%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Friday, 6 December 2013, 06:00 — 12:00",27 / 21 °C,Fog.,Humidity: 87%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Friday, 6 December 2013, 12:00 — 18:00",29 / 27 °C,Scattered clouds.,Humidity: 65%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Friday, 6 December 2013, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 88%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 7 December 2013, 00:00 — 06:00",24 / 21 °C,Fog.,Humidity: 99%,Barometer: 1009 mbar,WNW,Wind: 4 km/h
+"Saturday, 7 December 2013, 06:00 — 12:00",29 / 21 °C,Scattered clouds.,Humidity: 82%,Barometer: 1011 mbar,N,Wind: 7 km/h
+"Saturday, 7 December 2013, 12:00 — 18:00",31 / 26 °C,Scattered clouds.,Humidity: 65%,Barometer: 1009 mbar,W,Wind: 6 km/h
+"Saturday, 7 December 2013, 18:00 — 00:00",26 / 22 °C,Passing clouds.,Humidity: 87%,Barometer: 1010 mbar,W,Wind: 8 km/h
+"Sunday, 8 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 99%,Barometer: 1010 mbar,WSW,Wind: 5 km/h
+"Sunday, 8 December 2013, 06:00 — 12:00",31 / 21 °C,Passing clouds.,Humidity: 76%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Sunday, 8 December 2013, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 59%,Barometer: 1008 mbar,S,Wind: 10 km/h
+"Sunday, 8 December 2013, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 86%,Barometer: 1010 mbar,S,Wind: 10 km/h
+"Monday, 9 December 2013, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 100%,Barometer: 1009 mbar,W,Wind: 4 km/h
+"Monday, 9 December 2013, 06:00 — 12:00",31 / 23 °C,Scattered clouds.,Humidity: 79%,Barometer: 1011 mbar,N,Wind: 5 km/h
+"Monday, 9 December 2013, 12:00 — 18:00",32 / 29 °C,Scattered clouds.,Humidity: 57%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Monday, 9 December 2013, 18:00 — 00:00",29 / 24 °C,Passing clouds.,Humidity: 89%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Tuesday, 10 December 2013, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 98%,Barometer: 1008 mbar,WNW,Wind: 5 km/h
+"Tuesday, 10 December 2013, 06:00 — 12:00",31 / 22 °C,Scattered clouds.,Humidity: 81%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Tuesday, 10 December 2013, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 65%,Barometer: 1006 mbar,N,Wind: 9 km/h
+"Tuesday, 10 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 88%,Barometer: 1008 mbar,SSE,Wind: 8 km/h
+"Wednesday, 11 December 2013, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 98%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Wednesday, 11 December 2013, 06:00 — 12:00",31 / 22 °C,Scattered clouds.,Humidity: 79%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Wednesday, 11 December 2013, 12:00 — 18:00",32 / 27 °C,Partly sunny.,Humidity: 62%,Barometer: 1007 mbar,N,Wind: 8 km/h
+"Wednesday, 11 December 2013, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 82%,Barometer: 1009 mbar,SE,Wind: 8 km/h
+"Thursday, 12 December 2013, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 94%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Thursday, 12 December 2013, 06:00 — 12:00",30 / 22 °C,Fog.,Humidity: 81%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Thursday, 12 December 2013, 12:00 — 18:00",31 / 27 °C,Passing clouds.,Humidity: 61%,Barometer: 1007 mbar,N,Wind: 9 km/h
+"Thursday, 12 December 2013, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 87%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Friday, 13 December 2013, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 100%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Friday, 13 December 2013, 06:00 — 12:00",31 / 22 °C,Scattered clouds.,Humidity: 83%,Barometer: 1010 mbar,NNW,Wind: 8 km/h
+"Friday, 13 December 2013, 12:00 — 18:00",32 / 29 °C,Scattered clouds.,Humidity: 59%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Friday, 13 December 2013, 18:00 — 00:00",29 / 26 °C,Passing clouds.,Humidity: 83%,Barometer: 1010 mbar,N,Wind: 7 km/h
+"Saturday, 14 December 2013, 00:00 — 06:00",27 / 23 °C,Passing clouds.,Humidity: 97%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Saturday, 14 December 2013, 06:00 — 12:00",30 / 23 °C,Fog.,Humidity: 89%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Saturday, 14 December 2013, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 66%,Barometer: 1007 mbar,E,Wind: 9 km/h
+"Saturday, 14 December 2013, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 92%,Barometer: 1010 mbar,N,Wind: 8 km/h
+"Sunday, 15 December 2013, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 95%,Barometer: 1008 mbar,E,Wind: 10 km/h
+"Sunday, 15 December 2013, 06:00 — 12:00",32 / 24 °C,Scattered clouds.,Humidity: 85%,Barometer: 1010 mbar,N,Wind: 9 km/h
+"Sunday, 15 December 2013, 12:00 — 18:00",32 / 28 °C,Broken clouds.,Humidity: 63%,Barometer: 1008 mbar,SE,Wind: 15 km/h
+"Sunday, 15 December 2013, 18:00 — 00:00",28 / 26 °C,Passing clouds.,Humidity: 78%,Barometer: 1009 mbar,ESE,Wind: 12 km/h
+"Monday, 16 December 2013, 00:00 — 06:00",26 / 23 °C,Passing clouds.,Humidity: 97%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Monday, 16 December 2013, 06:00 — 12:00",30 / 23 °C,Partly sunny.,Humidity: 83%,Barometer: 1010 mbar,E,Wind: 12 km/h
+"Monday, 16 December 2013, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 63%,Barometer: 1007 mbar,SSE,Wind: 13 km/h
+"Monday, 16 December 2013, 18:00 — 00:00",28 / 25 °C,Passing clouds.,Humidity: 87%,Barometer: 1008 mbar,ESE,Wind: 16 km/h
+"Tuesday, 17 December 2013, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 96%,Barometer: 1008 mbar,SE,Wind: 10 km/h
+"Tuesday, 17 December 2013, 06:00 — 12:00",31 / 24 °C,Scattered clouds.,Humidity: 74%,Barometer: 1009 mbar,ESE,Wind: 12 km/h
+"Tuesday, 17 December 2013, 12:00 — 18:00",32 / 24 °C,Scattered clouds.,Humidity: 68%,Barometer: 1006 mbar,S,Wind: 14 km/h
+"Tuesday, 17 December 2013, 18:00 — 00:00",24 / 22 °C,Partly cloudy.,Humidity: 100%,Barometer: 1010 mbar,NW,Wind: 14 km/h
+"Wednesday, 18 December 2013, 00:00 — 06:00",22 / 21 °C,Partly cloudy.,Humidity: 99%,Barometer: 1009 mbar,NW,Wind: 11 km/h
+"Wednesday, 18 December 2013, 06:00 — 12:00",26 / 21 °C,Broken clouds.,Humidity: 90%,Barometer: 1011 mbar,N,Wind: 12 km/h
+"Wednesday, 18 December 2013, 12:00 — 18:00",28 / 25 °C,Broken clouds.,Humidity: 78%,Barometer: 1009 mbar,NNW,Wind: 9 km/h
+"Wednesday, 18 December 2013, 18:00 — 00:00",25 / 23 °C,Passing clouds.,Humidity: 89%,Barometer: 1010 mbar,WNW,Wind: 6 km/h
+"Thursday, 19 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 99%,Barometer: 1010 mbar,NW,Wind: 6 km/h
+"Thursday, 19 December 2013, 06:00 — 12:00",29 / 21 °C,Scattered clouds.,Humidity: 86%,Barometer: 1011 mbar,N,Wind: 7 km/h
+"Thursday, 19 December 2013, 12:00 — 18:00",30 / 27 °C,Partly sunny.,Humidity: 64%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Thursday, 19 December 2013, 18:00 — 00:00",27 / 23 °C,Light rain. Partly cloudy.,Humidity: 98%,Barometer: 1011 mbar,S,Wind: 12 km/h
+"Friday, 20 December 2013, 00:00 — 06:00",24 / 21 °C,Partly cloudy.,Humidity: 100%,Barometer: 1011 mbar,NW,Wind: 9 km/h
+"Friday, 20 December 2013, 06:00 — 12:00",27 / 21 °C,Broken clouds.,Humidity: 90%,Barometer: 1013 mbar,N,Wind: 5 km/h
+"Friday, 20 December 2013, 12:00 — 18:00",27 / 24 °C,Broken clouds.,Humidity: 79%,Barometer: 1011 mbar,W,Wind: 8 km/h
+"Friday, 20 December 2013, 18:00 — 00:00",24 / 23 °C,Passing clouds.,Humidity: 82%,Barometer: 1013 mbar,NW,Wind: 8 km/h
+"Saturday, 21 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 85%,Barometer: 1012 mbar,NW,Wind: 8 km/h
+"Saturday, 21 December 2013, 06:00 — 12:00",27 / 21 °C,Partly sunny.,Humidity: 78%,Barometer: 1014 mbar,N,Wind: 6 km/h
+"Saturday, 21 December 2013, 12:00 — 18:00",28 / 26 °C,Partly sunny.,Humidity: 67%,Barometer: 1012 mbar,W,Wind: 8 km/h
+"Saturday, 21 December 2013, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 84%,Barometer: 1013 mbar,WSW,Wind: 6 km/h
+"Sunday, 22 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 98%,Barometer: 1012 mbar,NW,Wind: 6 km/h
+"Sunday, 22 December 2013, 06:00 — 12:00",27 / 21 °C,Scattered clouds.,Humidity: 81%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Sunday, 22 December 2013, 12:00 — 18:00",30 / 27 °C,Scattered clouds.,Humidity: 61%,Barometer: 1011 mbar,N,Wind: 7 km/h
+"Sunday, 22 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 76%,Barometer: 1012 mbar,N,Wind: 8 km/h
+"Monday, 23 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 87%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Monday, 23 December 2013, 06:00 — 12:00",28 / 21 °C,Scattered clouds.,Humidity: 80%,Barometer: 1013 mbar,NW,Wind: 8 km/h
+"Monday, 23 December 2013, 12:00 — 18:00",30 / 27 °C,Scattered clouds.,Humidity: 65%,Barometer: 1011 mbar,W,Wind: 10 km/h
+"Monday, 23 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 75%,Barometer: 1013 mbar,N,Wind: 11 km/h
+"Tuesday, 24 December 2013, 00:00 — 06:00",23 / 19 °C,Passing clouds.,Humidity: 88%,Barometer: 1013 mbar,NNW,Wind: 9 km/h
+"Tuesday, 24 December 2013, 06:00 — 12:00",28 / 19 °C,Scattered clouds.,Humidity: 79%,Barometer: 1014 mbar,N,Wind: 8 km/h
+"Tuesday, 24 December 2013, 12:00 — 18:00",29 / 27 °C,Partly sunny.,Humidity: 66%,Barometer: 1012 mbar,W,Wind: 7 km/h
+"Tuesday, 24 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 80%,Barometer: 1013 mbar,WSW,Wind: 6 km/h
+"Wednesday, 25 December 2013, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 97%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Wednesday, 25 December 2013, 06:00 — 12:00",29 / 21 °C,Scattered clouds.,Humidity: 82%,Barometer: 1013 mbar,N,Wind: 6 km/h
+"Wednesday, 25 December 2013, 12:00 — 18:00",29 / 27 °C,Partly sunny.,Humidity: 68%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Wednesday, 25 December 2013, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 86%,Barometer: 1012 mbar,WSW,Wind: 8 km/h
+"Thursday, 26 December 2013, 00:00 — 06:00",23 / 19 °C,Passing clouds.,Humidity: 93%,Barometer: 1012 mbar,NW,Wind: 8 km/h
+"Thursday, 26 December 2013, 06:00 — 12:00",28 / 19 °C,Scattered clouds.,Humidity: 84%,Barometer: 1013 mbar,N,Wind: 6 km/h
+"Thursday, 26 December 2013, 12:00 — 18:00",28 / 24 °C,Partly sunny.,Humidity: 69%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Thursday, 26 December 2013, 18:00 — 00:00",25 / 22 °C,Passing clouds.,Humidity: 87%,Barometer: 1013 mbar,W,Wind: 7 km/h
+"Friday, 27 December 2013, 00:00 — 06:00",23 / 19 °C,Passing clouds.,Humidity: 91%,Barometer: 1011 mbar,NW,Wind: 6 km/h
+"Friday, 27 December 2013, 06:00 — 12:00",27 / 19 °C,Fog.,Humidity: 83%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Friday, 27 December 2013, 12:00 — 18:00",28 / 25 °C,Scattered clouds.,Humidity: 70%,Barometer: 1011 mbar,N,Wind: 9 km/h
+"Friday, 27 December 2013, 18:00 — 00:00",25 / 21 °C,Passing clouds.,Humidity: 79%,Barometer: 1012 mbar,N,Wind: 12 km/h
+"Saturday, 28 December 2013, 00:00 — 06:00",21 / 18 °C,Passing clouds.,Humidity: 83%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Saturday, 28 December 2013, 06:00 — 12:00",28 / 18 °C,Haze.,Humidity: 70%,Barometer: 1013 mbar,N,Wind: 5 km/h
+"Saturday, 28 December 2013, 12:00 — 18:00",28 / 25 °C,Scattered clouds.,Humidity: 59%,Barometer: 1011 mbar,W,Wind: 8 km/h
+"Saturday, 28 December 2013, 18:00 — 00:00",25 / 22 °C,Passing clouds.,Humidity: 87%,Barometer: 1012 mbar,WSW,Wind: 8 km/h
+"Sunday, 29 December 2013, 00:00 — 06:00",22 / 18 °C,Passing clouds.,Humidity: 90%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Sunday, 29 December 2013, 06:00 — 12:00",28 / 18 °C,Scattered clouds.,Humidity: 76%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Sunday, 29 December 2013, 12:00 — 18:00",29 / 26 °C,Scattered clouds.,Humidity: 61%,Barometer: 1011 mbar,N,Wind: 8 km/h
+"Sunday, 29 December 2013, 18:00 — 00:00",26 / 22 °C,Passing clouds.,Humidity: 76%,Barometer: 1012 mbar,S,Wind: 8 km/h
+"Monday, 30 December 2013, 00:00 — 06:00",23 / 21 °C,Fog.,Humidity: 92%,Barometer: 1012 mbar,SW,Wind: 7 km/h
+"Monday, 30 December 2013, 06:00 — 12:00",29 / 21 °C,Fog.,Humidity: 78%,Barometer: 1014 mbar,N,Wind: 5 km/h
+"Monday, 30 December 2013, 12:00 — 18:00",30 / 26 °C,Scattered clouds.,Humidity: 61%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Monday, 30 December 2013, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 77%,Barometer: 1014 mbar,N,Wind: 6 km/h
+"Tuesday, 31 December 2013, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 92%,Barometer: 1013 mbar,ENE,Wind: 8 km/h
+"Tuesday, 31 December 2013, 06:00 — 12:00",29 / 20 °C,Fog.,Humidity: 70%,Barometer: 1014 mbar,N,Wind: 5 km/h
+"Tuesday, 31 December 2013, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 52%,Barometer: 1011 mbar,W,Wind: 8 km/h
+"Tuesday, 31 December 2013, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 79%,Barometer: 1013 mbar,S,Wind: 12 km/h

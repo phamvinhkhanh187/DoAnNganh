@@ -1,0 +1,125 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Tuesday, 28 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 96%,Barometer: 1007 mbar,ENE,Wind: 4 km/h
+"Wednesday, 1 July 2020, 06:00 — 12:00",31 / 25 °C,Broken clouds.,Humidity: 82%,Barometer: 1008 mbar,WSW,Wind: 12 km/h
+"Wednesday, 1 July 2020, 12:00 — 18:00",32 / 25 °C,Broken clouds.,Humidity: 73%,Barometer: 1005 mbar,WNW,Wind: 15 km/h
+"Wednesday, 1 July 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 86%,Barometer: 1007 mbar,SW,Wind: 8 km/h
+"Thursday, 2 July 2020, 00:00 — 06:00",28 / 25 °C,Passing clouds.,Humidity: 91%,Barometer: 1006 mbar,SW,Wind: 14 km/h
+"Thursday, 2 July 2020, 06:00 — 12:00",32 / 25 °C,Scattered clouds.,Humidity: 76%,Barometer: 1007 mbar,W,Wind: 13 km/h
+"Thursday, 2 July 2020, 12:00 — 18:00",33 / 27 °C,Broken clouds.,Humidity: 68%,Barometer: 1005 mbar,WSW,Wind: 16 km/h
+"Thursday, 2 July 2020, 18:00 — 00:00",28 / 24 °C,Light rain. Overcast.,Humidity: 92%,Barometer: 1007 mbar,SSW,Wind: 11 km/h
+"Friday, 3 July 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,SSW,Wind: 5 km/h
+"Friday, 3 July 2020, 06:00 — 12:00",29 / 26 °C,Broken clouds.,Humidity: 84%,Barometer: 1009 mbar,WSW,Wind: 15 km/h
+"Friday, 3 July 2020, 12:00 — 18:00",30 / 29 °C,Broken clouds.,Humidity: 76%,Barometer: 1008 mbar,SW,Wind: 13 km/h
+"Friday, 3 July 2020, 18:00 — 00:00",29 / 26 °C,Passing clouds.,Humidity: 88%,Barometer: 1009 mbar,SSW,Wind: 9 km/h
+"Saturday, 4 July 2020, 00:00 — 06:00",26 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1009 mbar,W,Wind: 4 km/h
+"Saturday, 4 July 2020, 06:00 — 12:00",31 / 26 °C,Partly sunny.,Humidity: 72%,Barometer: 1010 mbar,WSW,Wind: 12 km/h
+"Saturday, 4 July 2020, 12:00 — 18:00",33 / 30 °C,Scattered clouds.,Humidity: 60%,Barometer: 1007 mbar,WNW,Wind: 10 km/h
+"Saturday, 4 July 2020, 18:00 — 00:00",30 / 28 °C,Passing clouds.,Humidity: 74%,Barometer: 1008 mbar,W,Wind: 8 km/h
+"Sunday, 5 July 2020, 00:00 — 06:00",28 / 26 °C,Passing clouds.,Humidity: 91%,Barometer: 1007 mbar,WSW,Wind: 9 km/h
+"Sunday, 5 July 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 77%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Sunday, 5 July 2020, 12:00 — 18:00",33 / 27 °C,Broken clouds.,Humidity: 80%,Barometer: 1005 mbar,W,Wind: 9 km/h
+"Sunday, 5 July 2020, 18:00 — 00:00",27 / 24 °C,Partly cloudy.,Humidity: 92%,Barometer: 1006 mbar,SE,Wind: 7 km/h
+"Monday, 6 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 90%,Barometer: 1005 mbar,N,Wind: 4 km/h
+"Monday, 6 July 2020, 06:00 — 12:00",30 / 26 °C,Scattered clouds.,Humidity: 84%,Barometer: 1007 mbar,N,Wind: 8 km/h
+"Monday, 6 July 2020, 12:00 — 18:00",31 / 27 °C,Sprinkles. Partly sunny.,Humidity: 84%,Barometer: 1006 mbar,SSE,Wind: 9 km/h
+"Monday, 6 July 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 86%,Barometer: 1008 mbar,S,Wind: 8 km/h
+"Tuesday, 7 July 2020, 00:00 — 06:00",27 / 27 °C,Passing clouds.,Humidity: 94%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Tuesday, 7 July 2020, 06:00 — 12:00",33 / 27 °C,Partly sunny.,Humidity: 76%,Barometer: 1009 mbar,N,Wind: 11 km/h
+"Tuesday, 7 July 2020, 12:00 — 18:00",33 / 31 °C,Passing clouds.,Humidity: 62%,Barometer: 1008 mbar,SSE,Wind: 16 km/h
+"Tuesday, 7 July 2020, 18:00 — 00:00",31 / 28 °C,Passing clouds.,Humidity: 79%,Barometer: 1009 mbar,S,Wind: 11 km/h
+"Wednesday, 8 July 2020, 00:00 — 06:00",28 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Wednesday, 8 July 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 78%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Wednesday, 8 July 2020, 12:00 — 18:00",31 / 23 °C,Partly sunny.,Humidity: 87%,Barometer: 1008 mbar,W,Wind: 9 km/h
+"Wednesday, 8 July 2020, 18:00 — 00:00",27 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1008 mbar,NW,Wind: 2 km/h
+"Thursday, 9 July 2020, 00:00 — 06:00",25 / 24 °C,Fog.,Humidity: 98%,Barometer: 1007 mbar,W,Wind: 2 km/h
+"Thursday, 9 July 2020, 06:00 — 12:00",32 / 24 °C,Scattered clouds.,Humidity: 75%,Barometer: 1008 mbar,N,Wind: 4 km/h
+"Thursday, 9 July 2020, 12:00 — 18:00",34 / 31 °C,Scattered clouds.,Humidity: 61%,Barometer: 1005 mbar,W,Wind: 6 km/h
+"Thursday, 9 July 2020, 18:00 — 00:00",31 / 28 °C,Passing clouds.,Humidity: 74%,Barometer: 1006 mbar,SW,Wind: 12 km/h
+"Friday, 10 July 2020, 00:00 — 06:00",29 / 27 °C,Passing clouds.,Humidity: 90%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Friday, 10 July 2020, 06:00 — 12:00",32 / 28 °C,Scattered clouds.,Humidity: 76%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Friday, 10 July 2020, 12:00 — 18:00",34 / 28 °C,Partly sunny.,Humidity: 67%,Barometer: 1007 mbar,SSW,Wind: 15 km/h
+"Friday, 10 July 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 89%,Barometer: 1008 mbar,WSW,Wind: 8 km/h
+"Saturday, 11 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 98%,Barometer: 1007 mbar,N,Wind: 3 km/h
+"Saturday, 11 July 2020, 06:00 — 12:00",33 / 26 °C,Partly sunny.,Humidity: 76%,Barometer: 1008 mbar,N,Wind: 4 km/h
+"Saturday, 11 July 2020, 12:00 — 18:00",34 / 30 °C,Partly sunny.,Humidity: 62%,Barometer: 1006 mbar,S,Wind: 13 km/h
+"Saturday, 11 July 2020, 18:00 — 00:00",30 / 27 °C,Passing clouds.,Humidity: 77%,Barometer: 1008 mbar,SSW,Wind: 12 km/h
+"Sunday, 12 July 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 92%,Barometer: 1007 mbar,W,Wind: 6 km/h
+"Sunday, 12 July 2020, 06:00 — 12:00",33 / 27 °C,Scattered clouds.,Humidity: 73%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Sunday, 12 July 2020, 12:00 — 18:00",34 / 27 °C,Partly sunny.,Humidity: 63%,Barometer: 1005 mbar,S,Wind: 9 km/h
+"Sunday, 12 July 2020, 18:00 — 00:00",27 / 26 °C,Passing clouds.,Humidity: 92%,Barometer: 1008 mbar,W,Wind: 8 km/h
+"Monday, 13 July 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1007 mbar,W,Wind: 3 km/h
+"Monday, 13 July 2020, 06:00 — 12:00",32 / 26 °C,Partly sunny.,Humidity: 80%,Barometer: 1008 mbar,W,Wind: 8 km/h
+"Monday, 13 July 2020, 12:00 — 18:00",32 / 25 °C,Partly sunny.,Humidity: 90%,Barometer: 1006 mbar,SSW,Wind: 15 km/h
+"Monday, 13 July 2020, 18:00 — 00:00",27 / 26 °C,Passing clouds.,Humidity: 93%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Tuesday, 14 July 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 99%,Barometer: 1007 mbar,N,Wind: 2 km/h
+"Tuesday, 14 July 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 78%,Barometer: 1008 mbar,N,Wind: 9 km/h
+"Tuesday, 14 July 2020, 12:00 — 18:00",36 / 32 °C,Scattered clouds.,Humidity: 53%,Barometer: 1005 mbar,N,Wind: 8 km/h
+"Tuesday, 14 July 2020, 18:00 — 00:00",33 / 24 °C,Passing clouds.,Humidity: 81%,Barometer: 1007 mbar,W,Wind: 11 km/h
+"Wednesday, 15 July 2020, 00:00 — 06:00",25 / 24 °C,Partly cloudy.,Humidity: 97%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Wednesday, 15 July 2020, 06:00 — 12:00",31 / 25 °C,Scattered clouds.,Humidity: 82%,Barometer: 1008 mbar,N,Wind: 6 km/h
+"Wednesday, 15 July 2020, 12:00 — 18:00",33 / 31 °C,Scattered clouds.,Humidity: 65%,Barometer: 1005 mbar,W,Wind: 10 km/h
+"Wednesday, 15 July 2020, 18:00 — 00:00",31 / 29 °C,Passing clouds.,Humidity: 80%,Barometer: 1006 mbar,S,Wind: 7 km/h
+"Thursday, 16 July 2020, 00:00 — 06:00",29 / 28 °C,Passing clouds.,Humidity: 87%,Barometer: 1006 mbar,S,Wind: 7 km/h
+"Thursday, 16 July 2020, 06:00 — 12:00",32 / 28 °C,Scattered clouds.,Humidity: 82%,Barometer: 1007 mbar,SW,Wind: 10 km/h
+"Thursday, 16 July 2020, 12:00 — 18:00",33 / 30 °C,Scattered clouds.,Humidity: 66%,Barometer: 1005 mbar,S,Wind: 15 km/h
+"Thursday, 16 July 2020, 18:00 — 00:00",30 / 28 °C,Passing clouds.,Humidity: 81%,Barometer: 1007 mbar,S,Wind: 10 km/h
+"Friday, 17 July 2020, 00:00 — 06:00",29 / 26 °C,Passing clouds.,Humidity: 92%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Friday, 17 July 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 77%,Barometer: 1008 mbar,N,Wind: 8 km/h
+"Friday, 17 July 2020, 12:00 — 18:00",34 / 31 °C,Scattered clouds.,Humidity: 57%,Barometer: 1006 mbar,N,Wind: 11 km/h
+"Friday, 17 July 2020, 18:00 — 00:00",31 / 29 °C,Passing clouds.,Humidity: 75%,Barometer: 1008 mbar,S,Wind: 9 km/h
+"Saturday, 18 July 2020, 00:00 — 06:00",29 / 26 °C,Passing clouds.,Humidity: 90%,Barometer: 1008 mbar,NW,Wind: 4 km/h
+"Saturday, 18 July 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 76%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 18 July 2020, 12:00 — 18:00",32 / 26 °C,Sprinkles. Scattered clouds.,Humidity: 81%,Barometer: 1007 mbar,N,Wind: 11 km/h
+"Saturday, 18 July 2020, 18:00 — 00:00",28 / 26 °C,Passing clouds.,Humidity: 92%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Sunday, 19 July 2020, 00:00 — 06:00",26 / 25 °C,Fog.,Humidity: 97%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Sunday, 19 July 2020, 06:00 — 12:00",34 / 25 °C,Scattered clouds.,Humidity: 75%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Sunday, 19 July 2020, 12:00 — 18:00",34 / 30 °C,Scattered clouds.,Humidity: 66%,Barometer: 1005 mbar,S,Wind: 9 km/h
+"Sunday, 19 July 2020, 18:00 — 00:00",32 / 26 °C,Passing clouds.,Humidity: 81%,Barometer: 1007 mbar,S,Wind: 10 km/h
+"Monday, 20 July 2020, 00:00 — 06:00",27 / 26 °C,Partly cloudy.,Humidity: 98%,Barometer: 1007 mbar,N,Wind: 4 km/h
+"Monday, 20 July 2020, 06:00 — 12:00",32 / 26 °C,Partly sunny.,Humidity: 81%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Monday, 20 July 2020, 12:00 — 18:00",34 / 23 °C,Scattered clouds.,Humidity: 79%,Barometer: 1006 mbar,N,Wind: 9 km/h
+"Monday, 20 July 2020, 18:00 — 00:00",29 / 26 °C,Passing clouds.,Humidity: 92%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Tuesday, 21 July 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 98%,Barometer: 1008 mbar,W,Wind: 3 km/h
+"Tuesday, 21 July 2020, 06:00 — 12:00",32 / 25 °C,Scattered clouds.,Humidity: 81%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Tuesday, 21 July 2020, 12:00 — 18:00",31 / 27 °C,Partly sunny.,Humidity: 75%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Tuesday, 21 July 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 85%,Barometer: 1008 mbar,SSE,Wind: 7 km/h
+"Wednesday, 22 July 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 95%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Wednesday, 22 July 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 75%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Wednesday, 22 July 2020, 12:00 — 18:00",34 / 32 °C,Partly sunny.,Humidity: 58%,Barometer: 1006 mbar,N,Wind: 7 km/h
+"Wednesday, 22 July 2020, 18:00 — 00:00",31 / 29 °C,Passing clouds.,Humidity: 78%,Barometer: 1008 mbar,S,Wind: 9 km/h
+"Thursday, 23 July 2020, 00:00 — 06:00",29 / 26 °C,Passing clouds.,Humidity: 91%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Thursday, 23 July 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 81%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Thursday, 23 July 2020, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 71%,Barometer: 1006 mbar,N,Wind: 10 km/h
+"Thursday, 23 July 2020, 18:00 — 00:00",28 / 23 °C,Light rain. Partly cloudy.,Humidity: 90%,Barometer: 1009 mbar,S,Wind: 9 km/h
+"Friday, 24 July 2020, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 94%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Friday, 24 July 2020, 06:00 — 12:00",33 / 25 °C,Partly sunny.,Humidity: 84%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Friday, 24 July 2020, 12:00 — 18:00",33 / 26 °C,Partly sunny.,Humidity: 79%,Barometer: 1007 mbar,N,Wind: 9 km/h
+"Friday, 24 July 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 95%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 25 July 2020, 00:00 — 06:00",26 / 25 °C,Fog.,Humidity: 99%,Barometer: 1008 mbar,E,Wind: 3 km/h
+"Saturday, 25 July 2020, 06:00 — 12:00",32 / 25 °C,Fog.,Humidity: 78%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 25 July 2020, 12:00 — 18:00",33 / 28 °C,Partly sunny.,Humidity: 68%,Barometer: 1006 mbar,N,Wind: 7 km/h
+"Saturday, 25 July 2020, 18:00 — 00:00",30 / 27 °C,Passing clouds.,Humidity: 82%,Barometer: 1008 mbar,S,Wind: 8 km/h
+"Sunday, 26 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 96%,Barometer: 1008 mbar,WNW,Wind: 5 km/h
+"Sunday, 26 July 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 78%,Barometer: 1008 mbar,N,Wind: 6 km/h
+"Sunday, 26 July 2020, 12:00 — 18:00",33 / 31 °C,Scattered clouds.,Humidity: 62%,Barometer: 1005 mbar,S,Wind: 10 km/h
+"Sunday, 26 July 2020, 18:00 — 00:00",31 / 26 °C,Passing clouds.,Humidity: 87%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Monday, 27 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 91%,Barometer: 1007 mbar,N,Wind: 2 km/h
+"Monday, 27 July 2020, 06:00 — 12:00",33 / 27 °C,Scattered clouds.,Humidity: 76%,Barometer: 1008 mbar,N,Wind: 4 km/h
+"Monday, 27 July 2020, 12:00 — 18:00",35 / 31 °C,Scattered clouds.,Humidity: 57%,Barometer: 1004 mbar,N,Wind: 8 km/h
+"Monday, 27 July 2020, 18:00 — 00:00",31 / 28 °C,Passing clouds.,Humidity: 76%,Barometer: 1006 mbar,S,Wind: 14 km/h
+"Tuesday, 28 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 96%,Barometer: 1007 mbar,ENE,Wind: 4 km/h
+"Tuesday, 28 July 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 73%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Tuesday, 28 July 2020, 12:00 — 18:00",33 / 24 °C,Scattered clouds.,Humidity: 76%,Barometer: 1005 mbar,N,Wind: 10 km/h
+"Tuesday, 28 July 2020, 18:00 — 00:00",31 / 27 °C,Passing clouds.,Humidity: 84%,Barometer: 1008 mbar,SW,Wind: 12 km/h
+"Wednesday, 29 July 2020, 00:00 — 06:00",27 / 24 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Wednesday, 29 July 2020, 06:00 — 12:00",32 / 24 °C,Scattered clouds.,Humidity: 80%,Barometer: 1008 mbar,N,Wind: 9 km/h
+"Wednesday, 29 July 2020, 12:00 — 18:00",34 / 32 °C,Partly sunny.,Humidity: 63%,Barometer: 1005 mbar,WNW,Wind: 11 km/h
+"Wednesday, 29 July 2020, 18:00 — 00:00",32 / 26 °C,Thundershowers. Passing clouds.,Humidity: 83%,Barometer: 1007 mbar,WNW,Wind: 13 km/h
+"Thursday, 30 July 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1006 mbar,W,Wind: 6 km/h
+"Thursday, 30 July 2020, 06:00 — 12:00",33 / 25 °C,Scattered clouds.,Humidity: 78%,Barometer: 1007 mbar,NW,Wind: 10 km/h
+"Thursday, 30 July 2020, 12:00 — 18:00",33 / 31 °C,Scattered clouds.,Humidity: 64%,Barometer: 1003 mbar,NW,Wind: 17 km/h
+"Thursday, 30 July 2020, 18:00 — 00:00",31 / 27 °C,Passing clouds.,Humidity: 82%,Barometer: 1006 mbar,W,Wind: 11 km/h
+"Friday, 31 July 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 93%,Barometer: 1004 mbar,W,Wind: 12 km/h
+"Friday, 31 July 2020, 06:00 — 12:00",32 / 27 °C,Broken clouds.,Humidity: 83%,Barometer: 1005 mbar,W,Wind: 17 km/h
+"Friday, 31 July 2020, 12:00 — 18:00",34 / 30 °C,More clouds than sun.,Humidity: 67%,Barometer: 1003 mbar,W,Wind: 23 km/h
+"Friday, 31 July 2020, 18:00 — 00:00",30 / 24 °C,Light rain. Partly cloudy.,Humidity: 97%,Barometer: 1005 mbar,W,Wind: 11 km/h

@@ -1,0 +1,125 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Saturday, 1 January 2011, 00:00 — 06:00",23 / 22 °C,Fog.,Humidity: 99%,Barometer: 1007 mbar,W,Wind: 3 km/h
+"Saturday, 1 January 2011, 06:00 — 12:00",29 / 23 °C,Scattered clouds.,Humidity: 82%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Saturday, 1 January 2011, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 68%,Barometer: 1007 mbar,N,Wind: 8 km/h
+"Saturday, 1 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 86%,Barometer: 1008 mbar,SSE,Wind: 7 km/h
+"Sunday, 2 January 2011, 00:00 — 06:00",23 / 22 °C,Fog.,Humidity: 99%,Barometer: 1008 mbar,NNE,Wind: 3 km/h
+"Sunday, 2 January 2011, 06:00 — 12:00",29 / 22 °C,Fog.,Humidity: 86%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Sunday, 2 January 2011, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 58%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Sunday, 2 January 2011, 18:00 — 00:00",28 / 23 °C,Passing clouds.,Humidity: 84%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Monday, 3 January 2011, 00:00 — 06:00",23 / 21 °C,Fog.,Humidity: 98%,Barometer: 1009 mbar,WNW,Wind: 3 km/h
+"Monday, 3 January 2011, 06:00 — 12:00",29 / 21 °C,Scattered clouds.,Humidity: 77%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Monday, 3 January 2011, 12:00 — 18:00",31 / 28 °C,Partly sunny.,Humidity: 63%,Barometer: 907 mbar,NNW,Wind: 6 km/h
+"Monday, 3 January 2011, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 84%,Barometer: 1008 mbar,NNW,Wind: 5 km/h
+"Tuesday, 4 January 2011, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 93%,Barometer: 1008 mbar,SSE,Wind: 5 km/h
+"Tuesday, 4 January 2011, 06:00 — 12:00",28 / 24 °C,Broken clouds.,Humidity: 81%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Tuesday, 4 January 2011, 12:00 — 18:00",29 / 26 °C,Broken clouds.,Humidity: 72%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Tuesday, 4 January 2011, 18:00 — 00:00",26 / 22 °C,Partly cloudy.,Humidity: 97%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Wednesday, 5 January 2011, 00:00 — 06:00",23 / 22 °C,Passing clouds.,Humidity: 95%,Barometer: 1008 mbar,NNE,Wind: 4 km/h
+"Wednesday, 5 January 2011, 06:00 — 12:00",29 / 22 °C,Partly sunny.,Humidity: 79%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Wednesday, 5 January 2011, 12:00 — 18:00",30 / 27 °C,Scattered clouds.,Humidity: 63%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Wednesday, 5 January 2011, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 92%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Thursday, 6 January 2011, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 99%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Thursday, 6 January 2011, 06:00 — 12:00",31 / 22 °C,Scattered clouds.,Humidity: 74%,Barometer: 1010 mbar,NNE,Wind: 10 km/h
+"Thursday, 6 January 2011, 12:00 — 18:00",32 / 27 °C,Scattered clouds.,Humidity: 57%,Barometer: 1008 mbar,NNE,Wind: 10 km/h
+"Thursday, 6 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 81%,Barometer: 1010 mbar,SSE,Wind: 7 km/h
+"Friday, 7 January 2011, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 78%,Barometer: 1010 mbar,NE,Wind: 11 km/h
+"Friday, 7 January 2011, 06:00 — 12:00",29 / 21 °C,Scattered clouds.,Humidity: 66%,Barometer: 1011 mbar,NE,Wind: 10 km/h
+"Friday, 7 January 2011, 12:00 — 18:00",31 / 27 °C,Broken clouds.,Humidity: 51%,Barometer: 1009 mbar,N,Wind: 9 km/h
+"Friday, 7 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 71%,Barometer: 1010 mbar,N,Wind: 7 km/h
+"Saturday, 8 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 82%,Barometer: 1010 mbar,NNE,Wind: 5 km/h
+"Saturday, 8 January 2011, 06:00 — 12:00",31 / 20 °C,Passing clouds.,Humidity: 66%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Saturday, 8 January 2011, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 49%,Barometer: 931 mbar,N,Wind: 6 km/h
+"Saturday, 8 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 79%,Barometer: 1009 mbar,SSE,Wind: 7 km/h
+"Sunday, 9 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 81%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Sunday, 9 January 2011, 06:00 — 12:00",30 / 20 °C,Scattered clouds.,Humidity: 71%,Barometer: 1010 mbar,NNE,Wind: 4 km/h
+"Sunday, 9 January 2011, 12:00 — 18:00",30 / 27 °C,Passing clouds.,Humidity: 63%,Barometer: 1007 mbar,WSW,Wind: 10 km/h
+"Sunday, 9 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 82%,Barometer: 1009 mbar,W,Wind: 9 km/h
+"Monday, 10 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 92%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Monday, 10 January 2011, 06:00 — 12:00",30 / 20 °C,Passing clouds.,Humidity: 71%,Barometer: 1010 mbar,N,Wind: 6 km/h
+"Monday, 10 January 2011, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 51%,Barometer: 1006 mbar,ENE,Wind: 7 km/h
+"Monday, 10 January 2011, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 81%,Barometer: 1008 mbar,SSE,Wind: 11 km/h
+"Tuesday, 11 January 2011, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 95%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Tuesday, 11 January 2011, 06:00 — 12:00",28 / 22 °C,Fog.,Humidity: 84%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Tuesday, 11 January 2011, 12:00 — 18:00",29 / 26 °C,Scattered clouds.,Humidity: 71%,Barometer: 1007 mbar,W,Wind: 8 km/h
+"Tuesday, 11 January 2011, 18:00 — 00:00",26 / 23 °C,Fog.,Humidity: 93%,Barometer: 1008 mbar,WSW,Wind: 8 km/h
+"Wednesday, 12 January 2011, 00:00 — 06:00",23 / 22 °C,Passing clouds.,Humidity: 98%,Barometer: 1007 mbar,WSW,Wind: 2 km/h
+"Wednesday, 12 January 2011, 06:00 — 12:00",30 / 22 °C,Passing clouds.,Humidity: 78%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Wednesday, 12 January 2011, 12:00 — 18:00",30 / 26 °C,Scattered clouds.,Humidity: 66%,Barometer: 1007 mbar,S,Wind: 11 km/h
+"Wednesday, 12 January 2011, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 90%,Barometer: 1009 mbar,S,Wind: 10 km/h
+"Thursday, 13 January 2011, 00:00 — 06:00",24 / 23 °C,Fog.,Humidity: 97%,Barometer: 1008 mbar,S,Wind: 4 km/h
+"Thursday, 13 January 2011, 06:00 — 12:00",27 / 23 °C,Fog.,Humidity: 85%,Barometer: 1011 mbar,S,Wind: 4 km/h
+"Thursday, 13 January 2011, 12:00 — 18:00",28 / 26 °C,Partly sunny.,Humidity: 74%,Barometer: 1008 mbar,N,Wind: 5 km/h
+"Thursday, 13 January 2011, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 86%,Barometer: 1010 mbar,ESE,Wind: 4 km/h
+"Friday, 14 January 2011, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 96%,Barometer: 1009 mbar,NW,Wind: 3 km/h
+"Friday, 14 January 2011, 06:00 — 12:00",30 / 22 °C,Scattered clouds.,Humidity: 81%,Barometer: 1011 mbar,N,Wind: 5 km/h
+"Friday, 14 January 2011, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 53%,Barometer: 924 mbar,NNW,Wind: 7 km/h
+"Friday, 14 January 2011, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 88%,Barometer: 1010 mbar,SSE,Wind: 8 km/h
+"Saturday, 15 January 2011, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Saturday, 15 January 2011, 06:00 — 12:00",29 / 22 °C,Fog.,Humidity: 84%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Saturday, 15 January 2011, 12:00 — 18:00",31 / 27 °C,Scattered clouds.,Humidity: 46%,Barometer: 1009 mbar,N,Wind: 11 km/h
+"Saturday, 15 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 83%,Barometer: 1011 mbar,SSE,Wind: 10 km/h
+"Sunday, 16 January 2011, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 80%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Sunday, 16 January 2011, 06:00 — 12:00",28 / 21 °C,Scattered clouds.,Humidity: 68%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Sunday, 16 January 2011, 12:00 — 18:00",29 / 27 °C,Scattered clouds.,Humidity: 56%,Barometer: 1009 mbar,N,Wind: 7 km/h
+"Sunday, 16 January 2011, 18:00 — 00:00",27 / 22 °C,Passing clouds.,Humidity: 77%,Barometer: 1011 mbar,SSE,Wind: 8 km/h
+"Monday, 17 January 2011, 00:00 — 06:00",22 / 18 °C,Passing clouds.,Humidity: 80%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Monday, 17 January 2011, 06:00 — 12:00",28 / 18 °C,Scattered clouds.,Humidity: 69%,Barometer: 1013 mbar,N,Wind: 4 km/h
+"Monday, 17 January 2011, 12:00 — 18:00",29 / 27 °C,Passing clouds.,Humidity: 46%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Monday, 17 January 2011, 18:00 — 00:00",27 / 22 °C,Passing clouds.,Humidity: 71%,Barometer: 1011 mbar,WNW,Wind: 6 km/h
+"Tuesday, 18 January 2011, 00:00 — 06:00",22 / 19 °C,Fog.,Humidity: 92%,Barometer: 1011 mbar,NNW,Wind: 4 km/h
+"Tuesday, 18 January 2011, 06:00 — 12:00",27 / 19 °C,Fog.,Humidity: 84%,Barometer: 1013 mbar,NNE,Wind: 3 km/h
+"Tuesday, 18 January 2011, 12:00 — 18:00",28 / 23 °C,Scattered clouds.,Humidity: 63%,Barometer: 1009 mbar,WNW,Wind: 7 km/h
+"Tuesday, 18 January 2011, 18:00 — 00:00",23 / 22 °C,Passing clouds.,Humidity: 86%,Barometer: 1010 mbar,W,Wind: 4 km/h
+"Wednesday, 19 January 2011, 00:00 — 06:00",22 / 19 °C,Fog.,Humidity: 94%,Barometer: 1009 mbar,WNW,Wind: 0 km/h
+"Wednesday, 19 January 2011, 06:00 — 12:00",29 / 20 °C,Fog.,Humidity: 78%,Barometer: 1010 mbar,N,Wind: 3 km/h
+"Wednesday, 19 January 2011, 12:00 — 18:00",32 / 27 °C,Scattered clouds.,Humidity: 49%,Barometer: 1007 mbar,N,Wind: 7 km/h
+"Wednesday, 19 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 79%,Barometer: 1009 mbar,WSW,Wind: 7 km/h
+"Thursday, 20 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 87%,Barometer: 1008 mbar,SW,Wind: 4 km/h
+"Thursday, 20 January 2011, 06:00 — 12:00",29 / 20 °C,Fog.,Humidity: 84%,Barometer: 1010 mbar,N,Wind: 7 km/h
+"Thursday, 20 January 2011, 12:00 — 18:00",32 / 27 °C,Scattered clouds.,Humidity: 60%,Barometer: 1006 mbar,N,Wind: 7 km/h
+"Thursday, 20 January 2011, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 82%,Barometer: 1009 mbar,SSE,Wind: 12 km/h
+"Friday, 21 January 2011, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 93%,Barometer: 1009 mbar,SSE,Wind: 7 km/h
+"Friday, 21 January 2011, 06:00 — 12:00",29 / 22 °C,Fog.,Humidity: 83%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Friday, 21 January 2011, 12:00 — 18:00",32 / 27 °C,Partly sunny.,Humidity: 61%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Friday, 21 January 2011, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 86%,Barometer: 1009 mbar,S,Wind: 9 km/h
+"Saturday, 22 January 2011, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 96%,Barometer: 1010 mbar,NW,Wind: 4 km/h
+"Saturday, 22 January 2011, 06:00 — 12:00",29 / 23 °C,Scattered clouds.,Humidity: 72%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Saturday, 22 January 2011, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 62%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 22 January 2011, 18:00 — 00:00",28 / 25 °C,Passing clouds.,Humidity: 80%,Barometer: 1011 mbar,S,Wind: 6 km/h
+"Sunday, 23 January 2011, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 91%,Barometer: 1011 mbar,S,Wind: 5 km/h
+"Sunday, 23 January 2011, 06:00 — 12:00",26 / 24 °C,Broken clouds.,Humidity: 83%,Barometer: 1013 mbar,N,Wind: 6 km/h
+"Sunday, 23 January 2011, 12:00 — 18:00",29 / 26 °C,Broken clouds.,Humidity: 72%,Barometer: 1011 mbar,N,Wind: 8 km/h
+"Sunday, 23 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 84%,Barometer: 1011 mbar,NE,Wind: 5 km/h
+"Monday, 24 January 2011, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 89%,Barometer: 1011 mbar,N,Wind: 3 km/h
+"Monday, 24 January 2011, 06:00 — 12:00",27 / 21 °C,Partly sunny.,Humidity: 83%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Monday, 24 January 2011, 12:00 — 18:00",29 / 27 °C,Partly sunny.,Humidity: 65%,Barometer: 1010 mbar,N,Wind: 9 km/h
+"Monday, 24 January 2011, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 83%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Tuesday, 25 January 2011, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 84%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Tuesday, 25 January 2011, 06:00 — 12:00",31 / 21 °C,Scattered clouds.,Humidity: 71%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Tuesday, 25 January 2011, 12:00 — 18:00",32 / 26 °C,Broken clouds.,Humidity: 56%,Barometer: 1010 mbar,NNE,Wind: 9 km/h
+"Tuesday, 25 January 2011, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 74%,Barometer: 1013 mbar,NNE,Wind: 9 km/h
+"Wednesday, 26 January 2011, 00:00 — 06:00",23 / 21 °C,Passing clouds.,Humidity: 79%,Barometer: 1011 mbar,NNE,Wind: 7 km/h
+"Wednesday, 26 January 2011, 06:00 — 12:00",32 / 21 °C,Passing clouds.,Humidity: 60%,Barometer: 1013 mbar,ENE,Wind: 13 km/h
+"Wednesday, 26 January 2011, 12:00 — 18:00",32 / 30 °C,Scattered clouds.,Humidity: 50%,Barometer: 1010 mbar,N,Wind: 6 km/h
+"Wednesday, 26 January 2011, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 67%,Barometer: 1013 mbar,N,Wind: 10 km/h
+"Thursday, 27 January 2011, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 81%,Barometer: 1012 mbar,N,Wind: 6 km/h
+"Thursday, 27 January 2011, 06:00 — 12:00",32 / 21 °C,Passing clouds.,Humidity: 67%,Barometer: 1014 mbar,NNE,Wind: 8 km/h
+"Thursday, 27 January 2011, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 53%,Barometer: 1010 mbar,SSE,Wind: 12 km/h
+"Thursday, 27 January 2011, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 75%,Barometer: 1012 mbar,SE,Wind: 10 km/h
+"Friday, 28 January 2011, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 88%,Barometer: 1012 mbar,NNE,Wind: 5 km/h
+"Friday, 28 January 2011, 06:00 — 12:00",32 / 22 °C,Scattered clouds.,Humidity: 69%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Friday, 28 January 2011, 12:00 — 18:00",33 / 29 °C,Partly sunny.,Humidity: 47%,Barometer: 1008 mbar,NE,Wind: 15 km/h
+"Friday, 28 January 2011, 18:00 — 00:00",29 / 24 °C,Passing clouds.,Humidity: 63%,Barometer: 1011 mbar,ENE,Wind: 14 km/h
+"Saturday, 29 January 2011, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 72%,Barometer: 1011 mbar,NNE,Wind: 11 km/h
+"Saturday, 29 January 2011, 06:00 — 12:00",33 / 23 °C,Partly sunny.,Humidity: 54%,Barometer: 910 mbar,ENE,Wind: 18 km/h
+"Saturday, 29 January 2011, 12:00 — 18:00",34 / 27 °C,Passing clouds.,Humidity: 49%,Barometer: 1009 mbar,S,Wind: 15 km/h
+"Saturday, 29 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 63%,Barometer: 1011 mbar,N,Wind: 9 km/h
+"Sunday, 30 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 73%,Barometer: 1011 mbar,N,Wind: 7 km/h
+"Sunday, 30 January 2011, 06:00 — 12:00",30 / 20 °C,Scattered clouds.,Humidity: 56%,Barometer: 935 mbar,N,Wind: 7 km/h
+"Sunday, 30 January 2011, 12:00 — 18:00",32 / 27 °C,Passing clouds.,Humidity: 46%,Barometer: 1010 mbar,W,Wind: 10 km/h
+"Sunday, 30 January 2011, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 82%,Barometer: 1012 mbar,S,Wind: 8 km/h
+"Monday, 31 January 2011, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 80%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Monday, 31 January 2011, 06:00 — 12:00",31 / 23 °C,Passing clouds.,Humidity: 56%,Barometer: 1013 mbar,N,Wind: 8 km/h
+"Monday, 31 January 2011, 12:00 — 18:00",32 / 26 °C,Scattered clouds.,Humidity: 51%,Barometer: 1009 mbar,N,Wind: 12 km/h
+"Monday, 31 January 2011, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 78%,Barometer: 1011 mbar,N,Wind: 7 km/h

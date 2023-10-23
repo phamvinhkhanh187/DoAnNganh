@@ -1,0 +1,121 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Tuesday, 1 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,N,Wind: 3 km/h
+"Tuesday, 1 September 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 79%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Tuesday, 1 September 2020, 12:00 — 18:00",32 / 25 °C,Broken clouds.,Humidity: 87%,Barometer: 1006 mbar,N,Wind: 11 km/h
+"Tuesday, 1 September 2020, 18:00 — 00:00",27 / 25 °C,Light rain. Partly cloudy.,Humidity: 95%,Barometer: 1008 mbar,N,Wind: 7 km/h
+"Wednesday, 2 September 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 100%,Barometer: 1008 mbar,ENE,Wind: 1 km/h
+"Wednesday, 2 September 2020, 06:00 — 12:00",32 / 25 °C,Partly sunny.,Humidity: 84%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Wednesday, 2 September 2020, 12:00 — 18:00",34 / 31 °C,Partly sunny.,Humidity: 64%,Barometer: 1005 mbar,WNW,Wind: 12 km/h
+"Wednesday, 2 September 2020, 18:00 — 00:00",31 / 26 °C,Partly cloudy.,Humidity: 82%,Barometer: 930 mbar,SW,Wind: 11 km/h
+"Thursday, 3 September 2020, 00:00 — 06:00",26 / 25 °C,Light rain. Partly cloudy.,Humidity: 94%,Barometer: 1008 mbar,N,Wind: 2 km/h
+"Thursday, 3 September 2020, 06:00 — 12:00",32 / 26 °C,Partly sunny.,Humidity: 82%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Thursday, 3 September 2020, 12:00 — 18:00",34 / 31 °C,Partly sunny.,Humidity: 62%,Barometer: 1005 mbar,W,Wind: 11 km/h
+"Thursday, 3 September 2020, 18:00 — 00:00",31 / 30 °C,Passing clouds.,Humidity: 77%,Barometer: 1008 mbar,SE,Wind: 5 km/h
+"Friday, 4 September 2020, 00:00 — 06:00",30 / 24 °C,Thunderstorms. Partly cloudy.,Humidity: 95%,Barometer: 1008 mbar,N,Wind: 6 km/h
+"Friday, 4 September 2020, 06:00 — 12:00",33 / 25 °C,Scattered clouds.,Humidity: 83%,Barometer: 1009 mbar,SSW,Wind: 8 km/h
+"Friday, 4 September 2020, 12:00 — 18:00",34 / 30 °C,Passing clouds.,Humidity: 64%,Barometer: 1006 mbar,S,Wind: 14 km/h
+"Friday, 4 September 2020, 18:00 — 00:00",30 / 27 °C,Passing clouds.,Humidity: 84%,Barometer: 1008 mbar,SSW,Wind: 8 km/h
+"Saturday, 5 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,N,Wind: 2 km/h
+"Saturday, 5 September 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 76%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Saturday, 5 September 2020, 12:00 — 18:00",33 / 25 °C,Partly sunny.,Humidity: 77%,Barometer: 1005 mbar,N,Wind: 12 km/h
+"Saturday, 5 September 2020, 18:00 — 00:00",29 / 26 °C,Passing clouds.,Humidity: 90%,Barometer: 1007 mbar,N,Wind: 6 km/h
+"Sunday, 6 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 97%,Barometer: 1007 mbar,N,Wind: 3 km/h
+"Sunday, 6 September 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 81%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Sunday, 6 September 2020, 12:00 — 18:00",35 / 24 °C,Partly sunny.,Humidity: 68%,Barometer: 1005 mbar,W,Wind: 10 km/h
+"Sunday, 6 September 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 95%,Barometer: 1009 mbar,N,Wind: 7 km/h
+"Monday, 7 September 2020, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 98%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Monday, 7 September 2020, 06:00 — 12:00",33 / 24 °C,Clear.,Humidity: 81%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Monday, 7 September 2020, 12:00 — 18:00",34 / 29 °C,Passing clouds.,Humidity: 62%,Barometer: 1006 mbar,WSW,Wind: 15 km/h
+"Monday, 7 September 2020, 18:00 — 00:00",29 / 27 °C,Passing clouds.,Humidity: 84%,Barometer: 1008 mbar,W,Wind: 10 km/h
+"Tuesday, 8 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 97%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Tuesday, 8 September 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 79%,Barometer: 1010 mbar,W,Wind: 7 km/h
+"Tuesday, 8 September 2020, 12:00 — 18:00",33 / 30 °C,Scattered clouds.,Humidity: 68%,Barometer: 1007 mbar,NW,Wind: 8 km/h
+"Tuesday, 8 September 2020, 18:00 — 00:00",32 / 28 °C,Passing clouds.,Humidity: 81%,Barometer: 1009 mbar,S,Wind: 10 km/h
+"Wednesday, 9 September 2020, 00:00 — 06:00",28 / 27 °C,Passing clouds.,Humidity: 92%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Wednesday, 9 September 2020, 06:00 — 12:00",34 / 27 °C,Scattered clouds.,Humidity: 79%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Wednesday, 9 September 2020, 12:00 — 18:00",34 / 27 °C,Scattered clouds.,Humidity: 80%,Barometer: 1006 mbar,S,Wind: 10 km/h
+"Wednesday, 9 September 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 90%,Barometer: 1008 mbar,N,Wind: 6 km/h
+"Thursday, 10 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 95%,Barometer: 1007 mbar,N,Wind: 3 km/h
+"Thursday, 10 September 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 78%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Thursday, 10 September 2020, 12:00 — 18:00",34 / 24 °C,Scattered clouds.,Humidity: 73%,Barometer: 1004 mbar,N,Wind: 10 km/h
+"Thursday, 10 September 2020, 18:00 — 00:00",27 / 26 °C,Partly cloudy.,Humidity: 95%,Barometer: 1008 mbar,W,Wind: 5 km/h
+"Friday, 11 September 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1007 mbar,NE,Wind: 4 km/h
+"Friday, 11 September 2020, 06:00 — 12:00",33 / 26 °C,Partly sunny.,Humidity: 79%,Barometer: 1008 mbar,N,Wind: 3 km/h
+"Friday, 11 September 2020, 12:00 — 18:00",34 / 26 °C,Thunderstorms. Broken clouds.,Humidity: 76%,Barometer: 1006 mbar,N,Wind: 9 km/h
+"Friday, 11 September 2020, 18:00 — 00:00",27 / 26 °C,Partly cloudy.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Saturday, 12 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 1 km/h
+"Saturday, 12 September 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 80%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Saturday, 12 September 2020, 12:00 — 18:00",34 / 27 °C,Scattered clouds.,Humidity: 66%,Barometer: 1007 mbar,N,Wind: 9 km/h
+"Saturday, 12 September 2020, 18:00 — 00:00",28 / 25 °C,Thundershowers. Partly cloudy.,Humidity: 95%,Barometer: 1010 mbar,N,Wind: 8 km/h
+"Sunday, 13 September 2020, 00:00 — 06:00",26 / 25 °C,Partly cloudy.,Humidity: 99%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Sunday, 13 September 2020, 06:00 — 12:00",31 / 25 °C,Partly sunny.,Humidity: 85%,Barometer: 1010 mbar,W,Wind: 6 km/h
+"Sunday, 13 September 2020, 12:00 — 18:00",32 / 24 °C,Partly sunny.,Humidity: 88%,Barometer: 1007 mbar,N,Wind: 10 km/h
+"Sunday, 13 September 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 95%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Monday, 14 September 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 98%,Barometer: 1009 mbar,N,Wind: 3 km/h
+"Monday, 14 September 2020, 06:00 — 12:00",30 / 25 °C,Fog.,Humidity: 92%,Barometer: 1010 mbar,N,Wind: 3 km/h
+"Monday, 14 September 2020, 12:00 — 18:00",30 / 27 °C,Sprinkles. Broken clouds.,Humidity: 88%,Barometer: 1007 mbar,N,Wind: 10 km/h
+"Monday, 14 September 2020, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 98%,Barometer: 1009 mbar,N,Wind: 9 km/h
+"Tuesday, 15 September 2020, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 95%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Tuesday, 15 September 2020, 06:00 — 12:00",31 / 24 °C,Partly sunny.,Humidity: 86%,Barometer: 1009 mbar,W,Wind: 7 km/h
+"Tuesday, 15 September 2020, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 70%,Barometer: 1006 mbar,W,Wind: 12 km/h
+"Tuesday, 15 September 2020, 18:00 — 00:00",28 / 26 °C,Passing clouds.,Humidity: 89%,Barometer: 1009 mbar,WSW,Wind: 10 km/h
+"Wednesday, 16 September 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 96%,Barometer: 1008 mbar,W,Wind: 7 km/h
+"Wednesday, 16 September 2020, 06:00 — 12:00",32 / 25 °C,Partly sunny.,Humidity: 82%,Barometer: 1008 mbar,WNW,Wind: 11 km/h
+"Wednesday, 16 September 2020, 12:00 — 18:00",33 / 30 °C,Partly sunny.,Humidity: 64%,Barometer: 1005 mbar,W,Wind: 16 km/h
+"Wednesday, 16 September 2020, 18:00 — 00:00",30 / 27 °C,Passing clouds.,Humidity: 84%,Barometer: 1007 mbar,W,Wind: 14 km/h
+"Thursday, 17 September 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 93%,Barometer: 1006 mbar,WSW,Wind: 10 km/h
+"Thursday, 17 September 2020, 06:00 — 12:00",32 / 26 °C,Scattered clouds.,Humidity: 78%,Barometer: 1006 mbar,W,Wind: 16 km/h
+"Thursday, 17 September 2020, 12:00 — 18:00",33 / 27 °C,Broken clouds.,Humidity: 71%,Barometer: 1002 mbar,W,Wind: 13 km/h
+"Thursday, 17 September 2020, 18:00 — 00:00",27 / 25 °C,Light rain. Partly cloudy.,Humidity: 97%,Barometer: 1004 mbar,WSW,Wind: 10 km/h
+"Friday, 18 September 2020, 00:00 — 06:00",27 / 26 °C,Passing clouds.,Humidity: 98%,Barometer: 1002 mbar,SW,Wind: 16 km/h
+"Friday, 18 September 2020, 06:00 — 12:00",30 / 26 °C,Mostly cloudy.,Humidity: 90%,Barometer: 1003 mbar,WSW,Wind: 22 km/h
+"Friday, 18 September 2020, 12:00 — 18:00",31 / 27 °C,Mostly cloudy.,Humidity: 83%,Barometer: 1001 mbar,WSW,Wind: 27 km/h
+"Friday, 18 September 2020, 18:00 — 00:00",27 / 25 °C,Light rain. Mostly cloudy.,Humidity: 95%,Barometer: 1006 mbar,SW,Wind: 19 km/h
+"Saturday, 19 September 2020, 00:00 — 06:00",26 / 24 °C,Partly cloudy.,Humidity: 99%,Barometer: 1005 mbar,SSW,Wind: 10 km/h
+"Saturday, 19 September 2020, 06:00 — 12:00",30 / 26 °C,Broken clouds.,Humidity: 87%,Barometer: 1008 mbar,SSW,Wind: 15 km/h
+"Saturday, 19 September 2020, 12:00 — 18:00",30 / 23 °C,Light rain. Cloudy.,Humidity: 95%,Barometer: 1007 mbar,N,Wind: 9 km/h
+"Saturday, 19 September 2020, 18:00 — 00:00",24 / 24 °C,Passing clouds.,Humidity: 100%,Barometer: 1009 mbar,E,Wind: 7 km/h
+"Sunday, 20 September 2020, 00:00 — 06:00",24 / 24 °C,Partly cloudy.,Humidity: 100%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Sunday, 20 September 2020, 06:00 — 12:00",31 / 24 °C,Partly sunny.,Humidity: 86%,Barometer: 1010 mbar,NE,Wind: 8 km/h
+"Sunday, 20 September 2020, 12:00 — 18:00",32 / 26 °C,Partly sunny.,Humidity: 78%,Barometer: 1008 mbar,W,Wind: 12 km/h
+"Sunday, 20 September 2020, 18:00 — 00:00",27 / 26 °C,Partly cloudy.,Humidity: 95%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Monday, 21 September 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 100%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Monday, 21 September 2020, 06:00 — 12:00",32 / 25 °C,Partly sunny.,Humidity: 88%,Barometer: 1009 mbar,N,Wind: 6 km/h
+"Monday, 21 September 2020, 12:00 — 18:00",33 / 24 °C,Partly sunny.,Humidity: 71%,Barometer: 1007 mbar,N,Wind: 8 km/h
+"Monday, 21 September 2020, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 96%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Tuesday, 22 September 2020, 00:00 — 06:00",26 / 26 °C,Passing clouds.,Humidity: 100%,Barometer: 1008 mbar,N,Wind: 2 km/h
+"Tuesday, 22 September 2020, 06:00 — 12:00",33 / 26 °C,Scattered clouds.,Humidity: 80%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Tuesday, 22 September 2020, 12:00 — 18:00",34 / 28 °C,Thunderstorms. Scattered clouds.,Humidity: 72%,Barometer: 1006 mbar,N,Wind: 10 km/h
+"Tuesday, 22 September 2020, 18:00 — 00:00",29 / 25 °C,Light rain. Partly cloudy.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 8 km/h
+"Wednesday, 23 September 2020, 00:00 — 06:00",25 / 23 °C,Partly cloudy.,Humidity: 99%,Barometer: 1009 mbar,N,Wind: 7 km/h
+"Wednesday, 23 September 2020, 06:00 — 12:00",32 / 24 °C,Scattered clouds.,Humidity: 76%,Barometer: 1009 mbar,N,Wind: 8 km/h
+"Wednesday, 23 September 2020, 12:00 — 18:00",32 / 26 °C,Broken clouds.,Humidity: 81%,Barometer: 1008 mbar,W,Wind: 11 km/h
+"Wednesday, 23 September 2020, 18:00 — 00:00",27 / 25 °C,Passing clouds.,Humidity: 94%,Barometer: 1009 mbar,N,Wind: 4 km/h
+"Thursday, 24 September 2020, 00:00 — 06:00",25 / 25 °C,Passing clouds.,Humidity: 100%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Thursday, 24 September 2020, 06:00 — 12:00",33 / 25 °C,Scattered clouds.,Humidity: 79%,Barometer: 1011 mbar,N,Wind: 5 km/h
+"Thursday, 24 September 2020, 12:00 — 18:00",34 / 26 °C,Partly sunny.,Humidity: 76%,Barometer: 1008 mbar,SW,Wind: 11 km/h
+"Thursday, 24 September 2020, 18:00 — 00:00",27 / 26 °C,Partly cloudy.,Humidity: 96%,Barometer: 1011 mbar,N,Wind: 2 km/h
+"Friday, 25 September 2020, 00:00 — 06:00",26 / 26 °C,Passing clouds.,Humidity: 100%,Barometer: 1009 mbar,N,Wind: 2 km/h
+"Friday, 25 September 2020, 06:00 — 12:00",31 / 26 °C,Partly sunny.,Humidity: 87%,Barometer: 1010 mbar,N,Wind: 8 km/h
+"Friday, 25 September 2020, 12:00 — 18:00",33 / 30 °C,Scattered clouds.,Humidity: 71%,Barometer: 1006 mbar,NW,Wind: 12 km/h
+"Friday, 25 September 2020, 18:00 — 00:00",30 / 24 °C,Passing clouds.,Humidity: 89%,Barometer: 1009 mbar,W,Wind: 16 km/h
+"Saturday, 26 September 2020, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 94%,Barometer: 1008 mbar,W,Wind: 4 km/h
+"Saturday, 26 September 2020, 06:00 — 12:00",31 / 25 °C,Broken clouds.,Humidity: 88%,Barometer: 1009 mbar,WNW,Wind: 12 km/h
+"Saturday, 26 September 2020, 12:00 — 18:00",31 / 29 °C,Partly sunny.,Humidity: 79%,Barometer: 1006 mbar,NW,Wind: 12 km/h
+"Saturday, 26 September 2020, 18:00 — 00:00",29 / 24 °C,Passing clouds.,Humidity: 94%,Barometer: 1007 mbar,WNW,Wind: 4 km/h
+"Sunday, 27 September 2020, 00:00 — 06:00",25 / 25 °C,Partly cloudy.,Humidity: 100%,Barometer: 1006 mbar,W,Wind: 2 km/h
+"Sunday, 27 September 2020, 06:00 — 12:00",31 / 25 °C,Partly sunny.,Humidity: 86%,Barometer: 1007 mbar,N,Wind: 5 km/h
+"Sunday, 27 September 2020, 12:00 — 18:00",31 / 25 °C,Broken clouds.,Humidity: 83%,Barometer: 927 mbar,N,Wind: 9 km/h
+"Sunday, 27 September 2020, 18:00 — 00:00",26 / 25 °C,Partly cloudy.,Humidity: 98%,Barometer: 1007 mbar,WSW,Wind: 10 km/h
+"Monday, 28 September 2020, 00:00 — 06:00",25 / 25 °C,Partly cloudy.,Humidity: 100%,Barometer: 1006 mbar,N,Wind: 3 km/h
+"Monday, 28 September 2020, 06:00 — 12:00",31 / 25 °C,Partly sunny.,Humidity: 86%,Barometer: 1008 mbar,SW,Wind: 12 km/h
+"Monday, 28 September 2020, 12:00 — 18:00",31 / 27 °C,Broken clouds.,Humidity: 81%,Barometer: 1006 mbar,WSW,Wind: 15 km/h
+"Monday, 28 September 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 85%,Barometer: 1009 mbar,SSW,Wind: 13 km/h
+"Tuesday, 29 September 2020, 00:00 — 06:00",27 / 25 °C,Passing clouds.,Humidity: 95%,Barometer: 1008 mbar,SSW,Wind: 5 km/h
+"Tuesday, 29 September 2020, 06:00 — 12:00",30 / 25 °C,Scattered clouds.,Humidity: 92%,Barometer: 1009 mbar,N,Wind: 9 km/h
+"Tuesday, 29 September 2020, 12:00 — 18:00",31 / 27 °C,Broken clouds.,Humidity: 78%,Barometer: 1007 mbar,W,Wind: 15 km/h
+"Tuesday, 29 September 2020, 18:00 — 00:00",27 / 25 °C,Light rain. Partly cloudy.,Humidity: 93%,Barometer: 1009 mbar,W,Wind: 7 km/h
+"Wednesday, 30 September 2020, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 98%,Barometer: 1007 mbar,SW,Wind: 5 km/h
+"Wednesday, 30 September 2020, 06:00 — 12:00",32 / 25 °C,Scattered clouds.,Humidity: 85%,Barometer: 1008 mbar,N,Wind: 8 km/h
+"Wednesday, 30 September 2020, 12:00 — 18:00",33 / 27 °C,Scattered clouds.,Humidity: 73%,Barometer: 1004 mbar,WNW,Wind: 13 km/h
+"Wednesday, 30 September 2020, 18:00 — 00:00",28 / 27 °C,Passing clouds.,Humidity: 89%,Barometer: 1006 mbar,N,Wind: 7 km/h

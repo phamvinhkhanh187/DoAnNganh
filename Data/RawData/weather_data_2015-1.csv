@@ -1,0 +1,125 @@
+Date,Temperature,Weather Description,Humidity,Barometer,WindDirection,WindSpeed
+"Thursday, 1 January 2015, 00:00 — 06:00",25 / 23 °C,Passing clouds.,Humidity: 76%,Barometer: 1012 mbar,NNW,Wind: 6 km/h
+"Thursday, 1 January 2015, 06:00 — 12:00",29 / 23 °C,Passing clouds.,Humidity: 59%,Barometer: 1014 mbar,NNE,Wind: 10 km/h
+"Thursday, 1 January 2015, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 45%,Barometer: 1011 mbar,N,Wind: 7 km/h
+"Thursday, 1 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 58%,Barometer: 1014 mbar,NE,Wind: 10 km/h
+"Friday, 2 January 2015, 00:00 — 06:00",24 / 20 °C,Clear.,Humidity: 60%,Barometer: 1013 mbar,N,Wind: 8 km/h
+"Friday, 2 January 2015, 06:00 — 12:00",29 / 20 °C,Passing clouds.,Humidity: 59%,Barometer: 1014 mbar,N,Wind: 6 km/h
+"Friday, 2 January 2015, 12:00 — 18:00",30 / 26 °C,Scattered clouds.,Humidity: 47%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Friday, 2 January 2015, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 63%,Barometer: 1014 mbar,N,Wind: 8 km/h
+"Saturday, 3 January 2015, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 71%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Saturday, 3 January 2015, 06:00 — 12:00",31 / 23 °C,Passing clouds.,Humidity: 63%,Barometer: 1014 mbar,N,Wind: 9 km/h
+"Saturday, 3 January 2015, 12:00 — 18:00",33 / 29 °C,Scattered clouds.,Humidity: 49%,Barometer: 1010 mbar,N,Wind: 6 km/h
+"Saturday, 3 January 2015, 18:00 — 00:00",29 / 25 °C,Passing clouds.,Humidity: 72%,Barometer: 1011 mbar,S,Wind: 9 km/h
+"Sunday, 4 January 2015, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 83%,Barometer: 1010 mbar,N,Wind: 5 km/h
+"Sunday, 4 January 2015, 06:00 — 12:00",32 / 24 °C,Scattered clouds.,Humidity: 68%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Sunday, 4 January 2015, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 58%,Barometer: 1009 mbar,N,Wind: 9 km/h
+"Sunday, 4 January 2015, 18:00 — 00:00",28 / 25 °C,Passing clouds.,Humidity: 76%,Barometer: 1010 mbar,W,Wind: 7 km/h
+"Monday, 5 January 2015, 00:00 — 06:00",26 / 25 °C,Passing clouds.,Humidity: 81%,Barometer: 1010 mbar,W,Wind: 5 km/h
+"Monday, 5 January 2015, 06:00 — 12:00",31 / 25 °C,Partly sunny.,Humidity: 74%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Monday, 5 January 2015, 12:00 — 18:00",31 / 25 °C,Broken clouds.,Humidity: 72%,Barometer: 1009 mbar,N,Wind: 8 km/h
+"Monday, 5 January 2015, 18:00 — 00:00",27 / 26 °C,Passing clouds.,Humidity: 78%,Barometer: 1010 mbar,N,Wind: 4 km/h
+"Tuesday, 6 January 2015, 00:00 — 06:00",26 / 23 °C,Passing clouds.,Humidity: 83%,Barometer: 1009 mbar,N,Wind: 5 km/h
+"Tuesday, 6 January 2015, 06:00 — 12:00",31 / 23 °C,Fog.,Humidity: 76%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Tuesday, 6 January 2015, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 61%,Barometer: 1009 mbar,SSE,Wind: 9 km/h
+"Tuesday, 6 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 76%,Barometer: 1009 mbar,SE,Wind: 6 km/h
+"Wednesday, 7 January 2015, 00:00 — 06:00",25 / 24 °C,Passing clouds.,Humidity: 84%,Barometer: 1010 mbar,SW,Wind: 5 km/h
+"Wednesday, 7 January 2015, 06:00 — 12:00",31 / 24 °C,Fog.,Humidity: 75%,Barometer: 1011 mbar,NNE,Wind: 8 km/h
+"Wednesday, 7 January 2015, 12:00 — 18:00",32 / 28 °C,Scattered clouds.,Humidity: 56%,Barometer: 1010 mbar,S,Wind: 9 km/h
+"Wednesday, 7 January 2015, 18:00 — 00:00",28 / 26 °C,Passing clouds.,Humidity: 72%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Thursday, 8 January 2015, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 77%,Barometer: 1011 mbar,E,Wind: 5 km/h
+"Thursday, 8 January 2015, 06:00 — 12:00",31 / 23 °C,Scattered clouds.,Humidity: 67%,Barometer: 1013 mbar,N,Wind: 5 km/h
+"Thursday, 8 January 2015, 12:00 — 18:00",33 / 29 °C,Passing clouds.,Humidity: 48%,Barometer: 1010 mbar,N,Wind: 6 km/h
+"Thursday, 8 January 2015, 18:00 — 00:00",29 / 25 °C,Passing clouds.,Humidity: 65%,Barometer: 1012 mbar,S,Wind: 8 km/h
+"Friday, 9 January 2015, 00:00 — 06:00",26 / 22 °C,Passing clouds.,Humidity: 72%,Barometer: 1012 mbar,E,Wind: 6 km/h
+"Friday, 9 January 2015, 06:00 — 12:00",32 / 22 °C,Sunny.,Humidity: 60%,Barometer: 1014 mbar,N,Wind: 3 km/h
+"Friday, 9 January 2015, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 44%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Friday, 9 January 2015, 18:00 — 00:00",28 / 25 °C,Passing clouds.,Humidity: 68%,Barometer: 1012 mbar,S,Wind: 9 km/h
+"Saturday, 10 January 2015, 00:00 — 06:00",25 / 24 °C,Fog.,Humidity: 81%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Saturday, 10 January 2015, 06:00 — 12:00",30 / 24 °C,Scattered clouds.,Humidity: 68%,Barometer: 1013 mbar,N,Wind: 3 km/h
+"Saturday, 10 January 2015, 12:00 — 18:00",33 / 28 °C,Scattered clouds.,Humidity: 49%,Barometer: 1010 mbar,N,Wind: 9 km/h
+"Saturday, 10 January 2015, 18:00 — 00:00",28 / 25 °C,Passing clouds.,Humidity: 72%,Barometer: 1012 mbar,S,Wind: 8 km/h
+"Sunday, 11 January 2015, 00:00 — 06:00",26 / 24 °C,Passing clouds.,Humidity: 82%,Barometer: 1011 mbar,N,Wind: 6 km/h
+"Sunday, 11 January 2015, 06:00 — 12:00",30 / 24 °C,Scattered clouds.,Humidity: 70%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Sunday, 11 January 2015, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 61%,Barometer: 1010 mbar,S,Wind: 9 km/h
+"Sunday, 11 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 75%,Barometer: 1012 mbar,S,Wind: 9 km/h
+"Monday, 12 January 2015, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 83%,Barometer: 1011 mbar,N,Wind: 4 km/h
+"Monday, 12 January 2015, 06:00 — 12:00",31 / 23 °C,Passing clouds.,Humidity: 64%,Barometer: 1013 mbar,N,Wind: 4 km/h
+"Monday, 12 January 2015, 12:00 — 18:00",31 / 27 °C,Passing clouds.,Humidity: 55%,Barometer: 1010 mbar,N,Wind: 9 km/h
+"Monday, 12 January 2015, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 71%,Barometer: 1012 mbar,N,Wind: 8 km/h
+"Tuesday, 13 January 2015, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 88%,Barometer: 1012 mbar,W,Wind: 6 km/h
+"Tuesday, 13 January 2015, 06:00 — 12:00",30 / 23 °C,Scattered clouds.,Humidity: 70%,Barometer: 1014 mbar,N,Wind: 6 km/h
+"Tuesday, 13 January 2015, 12:00 — 18:00",32 / 28 °C,Passing clouds.,Humidity: 50%,Barometer: 1010 mbar,ENE,Wind: 8 km/h
+"Tuesday, 13 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 76%,Barometer: 1012 mbar,S,Wind: 11 km/h
+"Wednesday, 14 January 2015, 00:00 — 06:00",24 / 23 °C,Passing clouds.,Humidity: 88%,Barometer: 1012 mbar,W,Wind: 6 km/h
+"Wednesday, 14 January 2015, 06:00 — 12:00",29 / 23 °C,Scattered clouds.,Humidity: 71%,Barometer: 1014 mbar,N,Wind: 5 km/h
+"Wednesday, 14 January 2015, 12:00 — 18:00",31 / 28 °C,Scattered clouds.,Humidity: 53%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Wednesday, 14 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 70%,Barometer: 1015 mbar,N,Wind: 7 km/h
+"Thursday, 15 January 2015, 00:00 — 06:00",24 / 18 °C,Passing clouds.,Humidity: 73%,Barometer: 1014 mbar,N,Wind: 7 km/h
+"Thursday, 15 January 2015, 06:00 — 12:00",29 / 18 °C,Clear.,Humidity: 59%,Barometer: 1015 mbar,N,Wind: 5 km/h
+"Thursday, 15 January 2015, 12:00 — 18:00",32 / 27 °C,Sunny.,Humidity: 38%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Thursday, 15 January 2015, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 65%,Barometer: 1014 mbar,S,Wind: 8 km/h
+"Friday, 16 January 2015, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 87%,Barometer: 1014 mbar,NW,Wind: 4 km/h
+"Friday, 16 January 2015, 06:00 — 12:00",29 / 20 °C,Passing clouds.,Humidity: 64%,Barometer: 1015 mbar,N,Wind: 5 km/h
+"Friday, 16 January 2015, 12:00 — 18:00",31 / 26 °C,Clear.,Humidity: 41%,Barometer: 1011 mbar,N,Wind: 8 km/h
+"Friday, 16 January 2015, 18:00 — 00:00",26 / 24 °C,Clear.,Humidity: 67%,Barometer: 1013 mbar,SSE,Wind: 10 km/h
+"Saturday, 17 January 2015, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 82%,Barometer: 1013 mbar,N,Wind: 4 km/h
+"Saturday, 17 January 2015, 06:00 — 12:00",29 / 21 °C,Fog.,Humidity: 63%,Barometer: 1015 mbar,N,Wind: 6 km/h
+"Saturday, 17 January 2015, 12:00 — 18:00",32 / 27 °C,Scattered clouds.,Humidity: 45%,Barometer: 1012 mbar,W,Wind: 10 km/h
+"Saturday, 17 January 2015, 18:00 — 00:00",27 / 25 °C,Passing clouds.,Humidity: 69%,Barometer: 1014 mbar,SSW,Wind: 8 km/h
+"Sunday, 18 January 2015, 00:00 — 06:00",25 / 21 °C,Passing clouds.,Humidity: 73%,Barometer: 1013 mbar,N,Wind: 7 km/h
+"Sunday, 18 January 2015, 06:00 — 12:00",30 / 21 °C,Scattered clouds.,Humidity: 60%,Barometer: 1014 mbar,N,Wind: 5 km/h
+"Sunday, 18 January 2015, 12:00 — 18:00",30 / 28 °C,Partly sunny.,Humidity: 52%,Barometer: 1012 mbar,N,Wind: 7 km/h
+"Sunday, 18 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 66%,Barometer: 1014 mbar,N,Wind: 8 km/h
+"Monday, 19 January 2015, 00:00 — 06:00",24 / 20 °C,Passing clouds.,Humidity: 74%,Barometer: 1014 mbar,N,Wind: 5 km/h
+"Monday, 19 January 2015, 06:00 — 12:00",28 / 20 °C,Clear.,Humidity: 60%,Barometer: 1015 mbar,N,Wind: 5 km/h
+"Monday, 19 January 2015, 12:00 — 18:00",30 / 26 °C,Scattered clouds.,Humidity: 52%,Barometer: 1013 mbar,W,Wind: 9 km/h
+"Monday, 19 January 2015, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 72%,Barometer: 1014 mbar,S,Wind: 9 km/h
+"Tuesday, 20 January 2015, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 85%,Barometer: 1014 mbar,ENE,Wind: 3 km/h
+"Tuesday, 20 January 2015, 06:00 — 12:00",28 / 21 °C,Fog.,Humidity: 73%,Barometer: 1016 mbar,NNW,Wind: 9 km/h
+"Tuesday, 20 January 2015, 12:00 — 18:00",31 / 28 °C,Passing clouds.,Humidity: 44%,Barometer: 1014 mbar,NW,Wind: 11 km/h
+"Tuesday, 20 January 2015, 18:00 — 00:00",28 / 24 °C,Passing clouds.,Humidity: 70%,Barometer: 1016 mbar,N,Wind: 7 km/h
+"Wednesday, 21 January 2015, 00:00 — 06:00",24 / 20 °C,Passing clouds.,Humidity: 84%,Barometer: 1016 mbar,ENE,Wind: 5 km/h
+"Wednesday, 21 January 2015, 06:00 — 12:00",30 / 20 °C,Fog.,Humidity: 69%,Barometer: 1018 mbar,N,Wind: 5 km/h
+"Wednesday, 21 January 2015, 12:00 — 18:00",32 / 26 °C,Passing clouds.,Humidity: 47%,Barometer: 1014 mbar,N,Wind: 10 km/h
+"Wednesday, 21 January 2015, 18:00 — 00:00",26 / 24 °C,Passing clouds.,Humidity: 71%,Barometer: 1016 mbar,SSE,Wind: 12 km/h
+"Thursday, 22 January 2015, 00:00 — 06:00",24 / 22 °C,Fog.,Humidity: 85%,Barometer: 1016 mbar,N,Wind: 5 km/h
+"Thursday, 22 January 2015, 06:00 — 12:00",30 / 22 °C,Fog.,Humidity: 72%,Barometer: 1018 mbar,N,Wind: 8 km/h
+"Thursday, 22 January 2015, 12:00 — 18:00",31 / 26 °C,Scattered clouds.,Humidity: 49%,Barometer: 1014 mbar,N,Wind: 8 km/h
+"Thursday, 22 January 2015, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 68%,Barometer: 1015 mbar,SE,Wind: 13 km/h
+"Friday, 23 January 2015, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 77%,Barometer: 1014 mbar,SE,Wind: 8 km/h
+"Friday, 23 January 2015, 06:00 — 12:00",30 / 20 °C,Clear.,Humidity: 65%,Barometer: 1015 mbar,N,Wind: 5 km/h
+"Friday, 23 January 2015, 12:00 — 18:00",31 / 26 °C,Scattered clouds.,Humidity: 47%,Barometer: 1011 mbar,NW,Wind: 10 km/h
+"Friday, 23 January 2015, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 67%,Barometer: 1013 mbar,SE,Wind: 15 km/h
+"Saturday, 24 January 2015, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 75%,Barometer: 1013 mbar,SE,Wind: 10 km/h
+"Saturday, 24 January 2015, 06:00 — 12:00",30 / 21 °C,Passing clouds.,Humidity: 62%,Barometer: 1016 mbar,ESE,Wind: 9 km/h
+"Saturday, 24 January 2015, 12:00 — 18:00",31 / 26 °C,Passing clouds.,Humidity: 45%,Barometer: 1013 mbar,N,Wind: 9 km/h
+"Saturday, 24 January 2015, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 63%,Barometer: 1014 mbar,SE,Wind: 14 km/h
+"Sunday, 25 January 2015, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 74%,Barometer: 1014 mbar,ESE,Wind: 11 km/h
+"Sunday, 25 January 2015, 06:00 — 12:00",29 / 20 °C,Sunny.,Humidity: 60%,Barometer: 1016 mbar,E,Wind: 7 km/h
+"Sunday, 25 January 2015, 12:00 — 18:00",32 / 26 °C,Passing clouds.,Humidity: 45%,Barometer: 1013 mbar,N,Wind: 11 km/h
+"Sunday, 25 January 2015, 18:00 — 00:00",26 / 23 °C,Passing clouds.,Humidity: 69%,Barometer: 1014 mbar,SE,Wind: 11 km/h
+"Monday, 26 January 2015, 00:00 — 06:00",23 / 20 °C,Passing clouds.,Humidity: 85%,Barometer: 1014 mbar,E,Wind: 7 km/h
+"Monday, 26 January 2015, 06:00 — 12:00",30 / 21 °C,Passing clouds.,Humidity: 68%,Barometer: 1015 mbar,N,Wind: 6 km/h
+"Monday, 26 January 2015, 12:00 — 18:00",32 / 27 °C,Clear.,Humidity: 47%,Barometer: 1012 mbar,N,Wind: 9 km/h
+"Monday, 26 January 2015, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 66%,Barometer: 1013 mbar,SSE,Wind: 10 km/h
+"Tuesday, 27 January 2015, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 81%,Barometer: 1012 mbar,N,Wind: 5 km/h
+"Tuesday, 27 January 2015, 06:00 — 12:00",30 / 23 °C,Sunny.,Humidity: 60%,Barometer: 1014 mbar,E,Wind: 8 km/h
+"Tuesday, 27 January 2015, 12:00 — 18:00",32 / 27 °C,Passing clouds.,Humidity: 47%,Barometer: 1010 mbar,N,Wind: 10 km/h
+"Tuesday, 27 January 2015, 18:00 — 00:00",27 / 25 °C,Passing clouds.,Humidity: 64%,Barometer: 1012 mbar,SE,Wind: 14 km/h
+"Wednesday, 28 January 2015, 00:00 — 06:00",25 / 21 °C,Passing clouds.,Humidity: 80%,Barometer: 1011 mbar,N,Wind: 5 km/h
+"Wednesday, 28 January 2015, 06:00 — 12:00",30 / 21 °C,Passing clouds.,Humidity: 68%,Barometer: 1013 mbar,N,Wind: 5 km/h
+"Wednesday, 28 January 2015, 12:00 — 18:00",32 / 27 °C,Passing clouds.,Humidity: 49%,Barometer: 1010 mbar,N,Wind: 10 km/h
+"Wednesday, 28 January 2015, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 67%,Barometer: 1012 mbar,SE,Wind: 14 km/h
+"Thursday, 29 January 2015, 00:00 — 06:00",24 / 21 °C,Passing clouds.,Humidity: 80%,Barometer: 1012 mbar,E,Wind: 9 km/h
+"Thursday, 29 January 2015, 06:00 — 12:00",31 / 21 °C,Clear.,Humidity: 69%,Barometer: 1013 mbar,N,Wind: 5 km/h
+"Thursday, 29 January 2015, 12:00 — 18:00",33 / 27 °C,Passing clouds.,Humidity: 52%,Barometer: 1011 mbar,N,Wind: 12 km/h
+"Thursday, 29 January 2015, 18:00 — 00:00",27 / 24 °C,Passing clouds.,Humidity: 70%,Barometer: 1012 mbar,SE,Wind: 11 km/h
+"Friday, 30 January 2015, 00:00 — 06:00",24 / 22 °C,Passing clouds.,Humidity: 78%,Barometer: 1012 mbar,E,Wind: 8 km/h
+"Friday, 30 January 2015, 06:00 — 12:00",30 / 22 °C,Passing clouds.,Humidity: 66%,Barometer: 1015 mbar,ENE,Wind: 8 km/h
+"Friday, 30 January 2015, 12:00 — 18:00",33 / 27 °C,Passing clouds.,Humidity: 50%,Barometer: 1012 mbar,N,Wind: 12 km/h
+"Friday, 30 January 2015, 18:00 — 00:00",27 / 23 °C,Clear.,Humidity: 61%,Barometer: 1014 mbar,SE,Wind: 10 km/h
+"Saturday, 31 January 2015, 00:00 — 06:00",23 / 21 °C,Clear.,Humidity: 75%,Barometer: 1014 mbar,N,Wind: 6 km/h
+"Saturday, 31 January 2015, 06:00 — 12:00",31 / 21 °C,Sunny.,Humidity: 55%,Barometer: 1016 mbar,N,Wind: 6 km/h
+"Saturday, 31 January 2015, 12:00 — 18:00",32 / 27 °C,Passing clouds.,Humidity: 43%,Barometer: 1013 mbar,N,Wind: 11 km/h
+"Saturday, 31 January 2015, 18:00 — 00:00",27 / 23 °C,Passing clouds.,Humidity: 62%,Barometer: 1014 mbar,S,Wind: 8 km/h
